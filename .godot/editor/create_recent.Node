@@ -1,0 +1,14 @@
+Button
+Control
+CollisionShape2D
+Node2D
+AudioStreamPlayer2D
+Label
+RichTextLabel
+RayCast2D
+HBoxContainer
+Timer
+Area2D
+AnimatedSprite2D
+Sprite2D
+CharacterBody2D
