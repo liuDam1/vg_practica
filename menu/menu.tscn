@@ -16,6 +16,8 @@ layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
+offset_left = 3.0
+offset_right = 3.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_1c4l2")
@@ -48,21 +50,24 @@ text = "Opciones : "
 
 [node name="button_start" type="Button" parent="vbox_menu" unique_id=1292855935]
 layout_mode = 2
+theme_override_colors/font_color = Color(0.22745098, 1, 0.8745098, 1)
 theme_override_font_sizes/font_size = 25
 text = "START"
 
 [node name="button_exit" type="Button" parent="vbox_menu" unique_id=934143691]
 layout_mode = 2
+theme_override_colors/font_color = Color(0.22745098, 1, 0.8745098, 1)
 theme_override_font_sizes/font_size = 25
 text = "EXIT"
 
 [node name="label_title" type="Label" parent="." unique_id=387086232]
 layout_mode = 0
-offset_left = 672.0
+offset_left = 457.0
 offset_top = 13.0
-offset_right = 1122.0
-offset_bottom = 78.0
-text = "骷髅荒途：骑士归来"
+offset_right = 1154.0
+offset_bottom = 118.0
+text = "El Camino de los Esqueletos: 
+           El Regreso del Caballero"
 label_settings = SubResource("LabelSettings_g4txk")
 
 [connection signal="pressed" from="vbox_menu/button_start" to="." method="_on_btn_start_pressed"]

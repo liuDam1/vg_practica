@@ -1,6 +1,6 @@
-[gd_scene load_steps=15 format=3 uid="uid://c2vsc3wrjnkm0"]
+[gd_scene format=3 uid="uid://c2vsc3wrjnkm0"]
 
-[ext_resource type="Script" path="res://coleccionable/coleccionable.gd" id="1_52hnh"]
+[ext_resource type="Script" uid="uid://ddak3vxwka2dw" path="res://coleccionable/coleccionable.gd" id="1_52hnh"]
 [ext_resource type="Texture2D" uid="uid://dtost2y02nrfg" path="res://coleccionable/img/Bronze_1.png" id="2_n34l0"]
 [ext_resource type="Texture2D" uid="uid://cik3b3deoqrjn" path="res://coleccionable/img/Bronze_2.png" id="3_67iev"]
 [ext_resource type="Texture2D" uid="uid://bssea4k8kv2st" path="res://coleccionable/img/Bronze_3.png" id="4_p2syo"]
@@ -17,31 +17,34 @@
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("2_n34l0")
+"texture": ExtResource("11_h11g0")
 }, {
 "duration": 1.0,
-"texture": ExtResource("3_67iev")
-}, {
-"duration": 1.0,
-"texture": ExtResource("4_p2syo")
-}, {
-"duration": 1.0,
-"texture": ExtResource("5_jxijt")
-}, {
-"duration": 1.0,
-"texture": ExtResource("6_53lat")
-}, {
-"duration": 1.0,
-"texture": ExtResource("7_0qidr")
-}, {
-"duration": 1.0,
-"texture": ExtResource("8_drida")
+"texture": ExtResource("10_s6no2")
 }, {
 "duration": 1.0,
 "texture": ExtResource("9_v13wo")
 }, {
 "duration": 1.0,
-"texture": ExtResource("10_s6no2")
+"texture": ExtResource("8_drida")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_0qidr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_53lat")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_jxijt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_p2syo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_67iev")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_n34l0")
 }, {
 "duration": 1.0,
 "texture": ExtResource("11_h11g0")
@@ -52,24 +55,25 @@ animations = [{
 }]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_knbpq"]
-radius = 26.0
+radius = 19.235384
 
-[node name="coleccionable" type="Area2D"]
-position = Vector2(179, 82)
+[node name="coleccionable" type="Area2D" unique_id=108535422]
+position = Vector2(192, 88)
 script = ExtResource("1_52hnh")
 metadata/_edit_group_ = true
 
-[node name="ani_moneda" type="AnimatedSprite2D" parent="."]
+[node name="ani_moneda" type="AnimatedSprite2D" parent="." unique_id=1619367588]
 position = Vector2(334, 217)
-scale = Vector2(0.0930233, 0.0904255)
+scale = Vector2(0.07155639, 0.06737591)
 sprite_frames = SubResource("SpriteFrames_rkgwq")
+frame_progress = 0.3700352
 centered = false
 
-[node name="col_moneda" type="CollisionShape2D" parent="."]
-position = Vector2(360, 243)
+[node name="col_moneda" type="CollisionShape2D" parent="." unique_id=1974912299]
+position = Vector2(354, 236)
 shape = SubResource("CircleShape2D_knbpq")
 
-[node name="audio_moneda" type="AudioStreamPlayer2D" parent="."]
+[node name="audio_moneda" type="AudioStreamPlayer2D" parent="." unique_id=371980722]
 stream = ExtResource("12_ww8to")
 parameters/looping = false
 

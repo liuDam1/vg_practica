@@ -1,6 +1,7 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1771434488
+::res://::1771441513
 icon.svg::CompressedTexture2D::6642749474454934204::1740645376::1743489934::1::::<><><>0<>0<>5b0f9d60caf32f16a503714737e0eb68<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1771435600::0::1::::<><><>0<>0<><>::
 ::res://coleccionable/::1770654760
 coleccionable.gd::GDScript::7370486893684230664::1740848016::0::1::::<>Area2D<><>0<>0<><>::
 coleccionable.tscn::PackedScene::6712390061330391281::1745686797::0::1::::<><><>0<>0<><>::res://coleccionable/coleccionable.gd<>uid://dtost2y02nrfg::::res://coleccionable/img/Bronze_1.png<>uid://cik3b3deoqrjn::::res://coleccionable/img/Bronze_2.png<>uid://bssea4k8kv2st::::res://coleccionable/img/Bronze_3.png<>uid://cvpw05ffnj5bt::::res://coleccionable/img/Bronze_4.png<>uid://c11ix0togau5x::::res://coleccionable/img/Bronze_5.png<>uid://bsm47su1kx85u::::res://coleccionable/img/Bronze_6.png<>uid://c8ifq76h3us07::::res://coleccionable/img/Bronze_7.png<>uid://1418i5xt6u4f::::res://coleccionable/img/Bronze_8.png<>uid://dx6sd3bi3v17h::::res://coleccionable/img/Bronze_9.png<>uid://coghaxugbbhgt::::res://coleccionable/img/Bronze_10.png<>uid://bjmwvl3o8cf55::::res://coleccionable/efectoMoneda.mp3
