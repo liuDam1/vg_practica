@@ -11,7 +11,7 @@ var end_pos := Vector2()   # Pos final (fuera pantalla arriba)
 var is_scrolling := false  # Control animación
 
 # Ruta escena destino
-var escena_destino := "res://niveles/nivel.tscn"
+var escena_destino := "res://menu/levels/nivel.tscn"
 
 func _ready() -> void:
 	# Config RichTextLabel
