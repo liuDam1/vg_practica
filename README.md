@@ -74,3 +74,6 @@ A la hora de seguir los pasos de los apuntes, al llegar a la parte de cactus y d
 * Para que se vea bien lo he movido todo a la izquierda para que se pueda ver.
 
 >Git del juego: https://github.com/liuDam1/vg_practica.git 
+
+
+prueba
