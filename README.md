@@ -31,4 +31,5 @@
 
 [Problemas surgidos a la hora de programar](./recursos/problemas.md)
 
+---
 > Git del juego: https://github.com/liuDam1/vg_practica.git
