@@ -4,7 +4,7 @@
 - [Conceptualización](#conceptualización)
 - [Arte](#arte)
 - [Problemas](#problemas)
-    - [Dificultades con los cactus y la vida](#dificultades-con-los-cactus-y-la-vida)
+	- [Dificultades con los cactus y la vida](#dificultades-con-los-cactus-y-la-vida)
 
 ## Integrantes
 - Jiangyu Liu
@@ -17,34 +17,34 @@
 
 ## Diseño
 - **Historia del videojuego:**
-    - La narrativa completa puede leerse en el siguiente archivo: [Histotia del videojuego](/recursos/historia.md)
+	- La narrativa completa puede leerse en el siguiente archivo: [Histotia del videojuego](/recursos/historia.md)
 - **Descripción del personaje:**
-    - Cavallero al estilo mediebal.
+	- Cavallero al estilo mediebal.
 - **Arte conceptual:**
-    - Story Boards
+	- Story Boards
 <img src="/recursos/Multimedia/storyBoards/storyBoards.png">
 
 - **Motor de desarrollo:**
-    - Utilizado el motor Godot 4.3 y 4.6, que permite una programación eficiente en GDScript, además de ofrecer herramientas visuales potentes para el desarrollo de juegos 2D.
+	- Utilizado el motor Godot 4.3 y 4.6, que permite una programación eficiente en GDScript, además de ofrecer herramientas visuales potentes para el desarrollo de juegos 2D.
 
 
 # Arte
 - **Música y efectos de sonido (BGM):**
-    - Música seleccionada de la plataforma: [Musica o BGM](https://www.aigei.com/sound/class/games_category)
+	- Música seleccionada de la plataforma: [Musica o BGM](https://www.aigei.com/sound/class/games_category)
 - **Texturas:**
-    - Recursos visuales descargados de: [Textura](https://www.zhaozi.cn/s/all/otf/)
+	- Recursos visuales descargados de: [Textura](https://www.zhaozi.cn/s/all/otf/)
 - **Personajes Enemigo:**
-    - Personaje esqueleto obtenido desde: [Personaje Esqueleto](https://www.aigei.com/s?q=%E9%AA%B7%E9%AB%85%E5%85%B5&type=2d)
+	- Personaje esqueleto obtenido desde: [Personaje Esqueleto](https://www.aigei.com/s?q=%E9%AA%B7%E9%AB%85%E5%85%B5&type=2d)
 - **Otros recursos:**
-    - Para completar la ambientación, se han utilizado recursos adicionales desde:
-        - [itch.io](https://itch.io/)
-        - [craftpix.net](https://craftpix.net/)
-    - Recursos del archivo del aula virtual:
-        - Moneda
-        - Captus 
+	- Para completar la ambientación, se han utilizado recursos adicionales desde:
+		- [itch.io](https://itch.io/)
+		- [craftpix.net](https://craftpix.net/)
+	- Recursos del archivo del aula virtual:
+		- Moneda
+		- Captus 
 - **Generación de fondo mediante IA**
-    - La imagen de fondo principal fue generada con inteligencia artificial.
-    <img src="/recursos/Multimedia/CapturaIA.png">
+	- La imagen de fondo principal fue generada con inteligencia artificial.
+	<img src="/recursos/Multimedia/CapturaIA.png">
 
 # Problemas
 
@@ -74,6 +74,3 @@ A la hora de seguir los pasos de los apuntes, al llegar a la parte de cactus y d
 * Para que se vea bien lo he movido todo a la izquierda para que se pueda ver.
 
 >Git del juego: https://github.com/liuDam1/vg_practica.git 
-
-
-prueba
