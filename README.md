@@ -23,6 +23,7 @@
 - **Arte conceptual:**
     - Story Boards
 <img src="/recursos/Multimedia/storyBoards/storyBoards.png">
+
 - **Motor de desarrollo:**
     - Utilizado el motor Godot 4.3 y 4.6, que permite una programación eficiente en GDScript, además de ofrecer herramientas visuales potentes para el desarrollo de juegos 2D.
 
