@@ -1,8 +1,8 @@
 [gd_scene format=3 uid="uid://63ldnrmfgqc1"]
 
-[ext_resource type="Script" uid="uid://eyvr8nenk6dj" path="res://ene_dyn/ene_dyn_esqueleto.gd" id="1_smm7i"]
-[ext_resource type="Texture2D" uid="uid://yoe5fabdy8m7" path="res://ene_dyn/img/esqueleto.png" id="2_0pqmv"]
-[ext_resource type="AudioStream" uid="uid://dcjjimya6l5fy" path="res://ene_status/efectoDano.mp3" id="3_xth21"]
+[ext_resource type="Script" uid="uid://eyvr8nenk6dj" path="res://enemies/dynamics/squeleton/ene_dyn_esqueleto.gd" id="1_smm7i"]
+[ext_resource type="Texture2D" uid="uid://yoe5fabdy8m7" path="res://enemies/dynamics/squeleton/img/esqueleto.png" id="2_0pqmv"]
+[ext_resource type="AudioStream" uid="uid://dcjjimya6l5fy" path="res://enemies/statics/cactus/efectoDano.mp3" id="3_xth21"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_3bfc3"]
 atlas = ExtResource("2_0pqmv")

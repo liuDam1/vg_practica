@@ -5,8 +5,8 @@
 [ext_resource type="PackedScene" uid="uid://6g06ad135bl5" path="res://fondo/fondo.tscn" id="3_ubmgd"]
 [ext_resource type="PackedScene" uid="uid://c2vsc3wrjnkm0" path="res://coleccionable/coleccionable.tscn" id="4_8lpxs"]
 [ext_resource type="AudioStream" uid="uid://dnmmthbm2ck6h" path="res://evironment/Juego.mp3" id="4_m5yay"]
-[ext_resource type="PackedScene" uid="uid://co7aardpo00l2" path="res://ene_status/cactus.tscn" id="6_8amh2"]
-[ext_resource type="PackedScene" uid="uid://63ldnrmfgqc1" path="res://ene_dyn/ene_dyn_esqueleto.tscn" id="7_48epn"]
+[ext_resource type="PackedScene" uid="uid://co7aardpo00l2" path="res://enemies/statics/cactus/cactus.tscn" id="6_8amh2"]
+[ext_resource type="PackedScene" uid="uid://63ldnrmfgqc1" path="res://enemies/dynamics/squeleton/ene_dyn_esqueleto.tscn" id="7_48epn"]
 
 [node name="evironment" type="Node2D" unique_id=1645659699]
 metadata/_edit_group_ = true
