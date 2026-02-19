@@ -2,7 +2,7 @@
 
 ## Historia del videojuego
 
-La narrativa completa puede leerse en el siguiente archivo: [Historia del videojuego](./historia.md)
+La narrativa completa puede leerse en el siguiente archivo: [Historia del videojuego](./Historia.md)
 
 ## Descripción del personaje
 
