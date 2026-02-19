@@ -1,0 +1,41 @@
+[gd_scene format=3 uid="uid://cqq16lmmj4sxd"]
+
+[ext_resource type="Texture2D" uid="uid://csjwnmeiprirt" path="res://menu/levels/niveles.png" id="1_7pk3x"]
+[ext_resource type="Script" uid="uid://dgnw31abbwb6m" path="res://menu/levels/nivel.gd" id="2_fworp"]
+[ext_resource type="FontFile" uid="uid://bj2gw2h7lj6a0" path="res://menu/history/fuente.TTF" id="3_k5cxp"]
+
+[sub_resource type="Theme" id="Theme_k5cxp"]
+default_font = ExtResource("3_k5cxp")
+default_font_size = 50
+
+[node name="Nivel" type="Node2D" unique_id=92163751]
+
+[node name="Niveles" type="Sprite2D" parent="." unique_id=592209746]
+position = Vector2(573, 290)
+scale = Vector2(0.6921296, 0.7763269)
+texture = ExtResource("1_7pk3x")
+
+[node name="btn_nivel1" type="Button" parent="Niveles" unique_id=634193596]
+offset_left = -449.33783
+offset_top = -86.303856
+offset_right = -254.28763
+offset_bottom = 43.795998
+script = ExtResource("2_fworp")
+
+[node name="btn_nivel2" type="Button" parent="Niveles" unique_id=1419400928]
+offset_left = -213.8328
+offset_top = -90.16821
+offset_right = -18.782623
+offset_bottom = 47.66034
+
+[node name="btn_volver" type="Button" parent="Niveles" unique_id=2041355580]
+offset_left = -130.03345
+offset_top = 279.52142
+offset_right = 111.250854
+offset_bottom = 363.24902
+theme = SubResource("Theme_k5cxp")
+text = "VOLVER
+"
+
+[connection signal="pressed" from="Niveles/btn_nivel1" to="Niveles/btn_nivel1" method="_on_btn_nivel1_pressed"]
+[connection signal="pressed" from="Niveles/btn_volver" to="Niveles/btn_nivel1" method="_on_btn_volver_pressed"]

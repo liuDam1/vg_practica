@@ -1,0 +1,28 @@
+[gd_scene format=3 uid="uid://cjsokuls0yt5p"]
+
+[ext_resource type="Texture2D" uid="uid://bnj8m3ifycsmd" path="res://menu/gameover/game_over.png" id="1_eaxdo"]
+[ext_resource type="Script" uid="uid://bv7bkgai8vp4y" path="res://menu/gameover/game_over.gd" id="1_fq5u1"]
+[ext_resource type="FontFile" uid="uid://bj2gw2h7lj6a0" path="res://menu/history/fuente.TTF" id="3_ko24k"]
+
+
+[sub_resource type="Theme" id="Theme_otqin"]
+default_font = ExtResource("3_ko24k")
+default_font_size = 50
+
+[node name="GameOver" type="Node2D" unique_id=1830983706]
+script = ExtResource("1_fq5u1")
+
+[node name="game_over" type="Sprite2D" parent="." unique_id=1885021611]
+position = Vector2(573.75, 323.25)
+scale = Vector2(0.53263885, 0.5494924)
+texture = ExtResource("1_eaxdo")
+
+[node name="btn_volver" type="Button" parent="game_over" unique_id=1626239040]
+offset_left = -130.95178
+offset_top = 292.54272
+offset_right = 193.84613
+offset_bottom = 439.49652
+theme = SubResource("Theme_otqin")
+text = "VOLVER"
+
+[connection signal="pressed" from="game_over/btn_volver" to="." method="_on_btn_volver_pressed"]
