@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1771532795
+::res://::1771533371
 icon.svg::CompressedTexture2D::6642749474454934204::1771527477::1771527503::1::::<><><>0<>0<>d3fd08632f4fecfd0efd7a6f1a3693bf<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1771532795::0::1::::<><><>0<>0<><>::
 ::res://counter/::1771532706
@@ -216,5 +216,5 @@ escena4.png::::-1::1771527477::1771527502::0::::<><><>0<>0<>c688dd1c63b44bbb53c2
 escena5.png::::-1::1771527477::1771527502::0::::<><><>0<>0<>dfad33b4e4ff2b8119773db5865472b3<>::
 escena6.png::CompressedTexture2D::6221407365019495642::1771527477::1771532451::1::::<><><>0<>0<>7ebbd0c1f0e03e165d96cf1762c602d2<>res://.godot/imported/escena6.png-4c4ab5164bf9efe27762d12c00d2c292.ctex::
 storyBoards.png::CompressedTexture2D::1085970794630546250::1771527477::1771532450::1::::<><><>0<>0<>071940ce24053be332e6d12333762ca6<>res://.godot/imported/storyBoards.png-0336ef6b3e8b4928cd30fd071909e3bd.ctex::
-::res://resources/sonido_musica_bgm/::1771532795
+::res://resources/sonido_musica_bgm/::1771532814
 morrir.mp3::AudioStreamMP3::2314168654112004474::1771532795::1771532814::1::::<><><>0<>0<>a8080c2da11b1c61cb11e8d55b1a8d8f<>res://.godot/imported/morrir.mp3-729006f7b352c4cbce411ee87d045575.mp3str::
