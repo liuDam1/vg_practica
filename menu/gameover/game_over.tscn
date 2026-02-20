@@ -4,7 +4,6 @@
 [ext_resource type="Script" uid="uid://bv7bkgai8vp4y" path="res://menu/gameover/game_over.gd" id="1_fq5u1"]
 [ext_resource type="FontFile" uid="uid://bj2gw2h7lj6a0" path="res://menu/history/fuente.TTF" id="3_ko24k"]
 
-
 [sub_resource type="Theme" id="Theme_otqin"]
 default_font = ExtResource("3_ko24k")
 default_font_size = 50

@@ -13,6 +13,7 @@ extends CharacterBody2D
 @onready var contador: Control = $CanvasLayer/Contador
 
 var monedas: int = 0
+var muerte = false
 @export var vida: int = 3
 
 func _ready() -> void:
@@ -77,11 +78,12 @@ func perder_vida():
 	vida -= 1
 	contador.actualizarVida(vida)
 	
-	if vida == 0:
+	if vida == 0 && !muerte:
 		set_physics_process(false)
 		set_process_input(false)
 		$tiempo/audio_morrir.play()
 		$tiempo.start(2.2)
 		$ani_player.play("muerte")
+		muerte = true
 		await $tiempo.timeout
-		get_tree().change_scene_to_file("res://game_over/game_over.tscn")
+		get_tree().change_scene_to_file("res://menu/gameover/game_over.tscn")
