@@ -12,7 +12,7 @@ Caballero al estilo medieval.
 
 Storyboards
 
-![Storyboards](/Multimedia/storyBoards/storyBoards.png)
+![Storyboards](/resources/Multimedia/storyBoards/storyBoards.png)
 
 ## Motor de desarrollo
 

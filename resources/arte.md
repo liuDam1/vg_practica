@@ -36,4 +36,4 @@ Recursos del archivo del aula virtual:
 
 La imagen de fondo principal fue generada con inteligencia artificial.
 
-![Fondo generado por IA](/recursos/Multimedia/CapturaIA.png)
+![Fondo generado por IA](./Multimedia/CapturaIA.png)
