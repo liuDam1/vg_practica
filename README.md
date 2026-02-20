@@ -2,35 +2,17 @@
 
 # Índice
 
-- [Conceptualización](#conceptualización)
-  - [Ideas](#ideas)
-  - [Diseño](#diseño)
-- [Arte](#arte)
-- [Problemas](#problemas)
+- Conceptualización
+  - [Ideas](/resources/ideas.md)
+  - [Diseño](/resources/diseno.md)
+- [Arte](/resources/arte.md)
+- [Problemas](/resources/problemas.md)
 
 ## Integrantes
 
 - Jiangyu Liu
 - Jiakai Zhu
 - Jiajun Zhu
-
-# Conceptualización
-
-## Ideas
-
-[Idea del videojuego](./recursos/ideas.md)
-
-## Diseño
-
-[Diseño del videojuego](./recursos/diseno.md)
-
-# Arte
-
-[Arte del videojuego](./recursos/arte.md)
-
-# Problemas
-
-[Problemas surgidos a la hora de programar](./recursos/problemas.md)
 
 ---
 > Git del juego: https://github.com/liuDam1/vg_practica.git
