@@ -1,0 +1,5 @@
+res://entities/players/knight/player.tscn
+res://entities/enemies/dynamics/squeleton/ene_dyn_esqueleto.tscn
+res://entities/collectable/coleccionable.tscn
+res://entities/enemies/statics/cactus/cactus.tscn
+res://evironment/level1/evironment.tscn

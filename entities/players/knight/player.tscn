@@ -259,23 +259,19 @@ animations = [{
 size = Vector2(27, 36.6071)
 
 [node name="player" type="CharacterBody2D" unique_id=173787055]
-position = Vector2(583, 322)
 scale = Vector2(0.69377, 0.608589)
 script = ExtResource("1_boad6")
 metadata/_edit_group_ = true
 
 [node name="ani_player" type="AnimatedSprite2D" parent="." unique_id=450753369]
-position = Vector2(647, 497)
 scale = Vector2(1.12029, 1.05798)
 sprite_frames = SubResource("SpriteFrames_hibto")
 animation = &"muerte"
 
 [node name="col_player" type="CollisionShape2D" parent="." unique_id=1773158424]
-position = Vector2(646.5, 499.553)
 shape = SubResource("RectangleShape2D_ppgnu")
 
 [node name="cam_player" type="Camera2D" parent="." unique_id=40271033]
-position = Vector2(703.403, 415.716)
 scale = Vector2(-0.0640359, -3.88967)
 offset = Vector2(0, 1)
 zoom = Vector2(1.5, 1.5)
