@@ -1,0 +1,5 @@
+res://menu/levels/nivel.tscn
+res://README.md
+res://menu/main/menu.gd
+res://menu/history/historia.gd
+res://menu/levels/nivel.gd
