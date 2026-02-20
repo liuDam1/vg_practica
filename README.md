@@ -3,9 +3,10 @@
 # Índice
 
 - [Conceptualización](#conceptualización)
+  - [Ideas](#ideas)
+  - [Diseño](#diseño)
 - [Arte](#arte)
 - [Problemas](#problemas)
-  - [Dificultades con los cactus y la vida](#dificultades-con-los-cactus-y-la-vida)
 
 ## Integrantes
 
