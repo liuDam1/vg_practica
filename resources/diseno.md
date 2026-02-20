@@ -2,7 +2,7 @@
 
 ## Historia del videojuego
 
-La narrativa completa puede leerse en el siguiente archivo: [Historia del videojuego](./historia.md)
+La narrativa completa puede leerse en el siguiente archivo: [Historia del videojuego](./Historia.md)
 
 ## Descripción del personaje
 
@@ -12,7 +12,7 @@ Caballero al estilo medieval.
 
 Storyboards
 
-![Storyboards](/recursos/Multimedia/storyBoards/storyBoards.png)
+![Storyboards](/resources/Multimedia/storyBoards/storyBoards.png)
 
 ## Motor de desarrollo
 
