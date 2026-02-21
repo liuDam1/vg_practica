@@ -1,10 +1,2 @@
-res://entities/players/knight/player.tscn
-res://entities/enemies/dynamics/squeleton/ene_dyn_esqueleto.tscn
-res://entities/collectable/coleccionable.tscn
-res://entities/enemies/statics/cactus/cactus.tscn
-res://evironment/level1/evironment.tscn
-res://menu/main/menu.gd
-res://menu/gameover/game_over.tscn
-res://entities/players/knight/player.gd
-res://menu/gameover/game_over.gd
-res://menu/levels/nivel.gd
+res://menu/history/historia.tscn
+res://menu/history/historia.gd

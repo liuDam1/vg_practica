@@ -1,8 +1,8 @@
+AudioStreamPlayer2D
 Button
 Control
 CollisionShape2D
 Node2D
-AudioStreamPlayer2D
 Label
 RichTextLabel
 RayCast2D

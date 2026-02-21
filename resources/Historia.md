@@ -2,10 +2,14 @@
 
 ## 《El Camino de los Esqueletos: El Regreso del Caballero》
 
-Eric, un caballero del Reino de la Luz, es arrastrado por un portal a un mundo desconocido: una ciudad moderna, pero en ruinas. Rascacielos se derrumban, calles están cubiertas de polvo y esqueletos humanos esparcidos por todas partes. Un maligno mago ha lanzado una maldición que convirtió a sus habitantes en esqueletos, sumiendo todo en la oscuridad.
+Eric, un valiente caballero del Reino de la Luz, es arrebatado de su hogar por un misterioso portal que lo arrastra a un mundo completamente desconocido: una ciudad moderna, pero sumida en la ruina absoluta. Rascacielos se tambalean medio derrumbados, las calles están cubiertas de polvo y cenizas, y por doquier reposan los esqueletos de quienes un día fueron sus habitantes.
 
-Para regresar a su mundo, Eric debe romper la maldición. En su camino, se enfrenta a soldados esqueletos con armas oxidadas y a magos esqueletos que lanzan hechizos oscuros. Con su espada y su valentía, los derrota uno a uno.
+Todo esto es obra de un oscuro mago, que lanzó una terrible maldición que convirtió a la población en esqueletos y sumió el lugar en la eterna penumbra.
 
-En el corazón de la ciudad, en un rascacielos en ruinas, se encuentra el maligno mago. Después de una batalla final, Eric le clava su espada y rompe la maldición. La luz del sol regresa a la ciudad, y un portal se abre ante él.
+Para poder regresar a su mundo, Eric debe romper esa maldición. En su camino, se enfrenta a soldados esqueleto con armas oxidadas y a magos esqueleto que lanzan hechizos de sombra. Con su espada afilada y su coraje inquebrantable, los derrota uno tras otro.
 
-Eric entra en el portal y regresa a su reino medieval, convertido en un héroe. Su historia de cómo salvó un mundo moderno de los esqueletos se cuenta por generaciones.
+En el corazón de la ciudad, dentro de un rascacielos en ruinas, aguarda el maligno mago. Después de una feroz batalla final, Eric clava su espada contra él y rompe la maldición de una vez por todas.
+
+La luz del sol vuelve a brillar sobre la ciudad, y un nuevo portal se abre ante sus ojos.
+
+Eric entra en él y regresa a su reino medieval, convertido en un auténtico héroe. La historia de cómo salvó un mundo moderno de la amenaza de los esqueletos se contará durante generaciones enteras.
