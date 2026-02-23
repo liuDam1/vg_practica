@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1771613632
+::res://::1771860224
 icon.svg::CompressedTexture2D::6642749474454934204::1771533314::1771533425::1::::<><><>0<>0<>d3fd08632f4fecfd0efd7a6f1a3693bf<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1771613632::0::1::::<><><>0<>0<><>::
 ::res://counter/::1771533314
@@ -38,10 +38,10 @@ efectoDano.mp3::AudioStreamMP3::7318780544825444610::1771533314::1771533424::1::
 ::res://entities/enemies/statics/cactus/img/::1771533426
 cactus.png::CompressedTexture2D::4669295741848327767::1771533314::1771533426::1::::<><><>0<>0<>e50c9251aae45509b287535738ba7846<>res://.godot/imported/cactus.png-3a907cfc830fd3274f94fba16b41df42.ctex::
 ::res://entities/players/::1771533314
-::res://entities/players/knight/::1771613675
+::res://entities/players/knight/::1771615016
 morrir.mp3::AudioStreamMP3::5703025164860999171::1771533314::1771533424::1::::<><><>0<>0<>8d5a6725754b1d438e85096f3353d0eb<>res://.godot/imported/morrir.mp3-a10fd3c183116479b62fee6fef1089b4.mp3str::
-player.gd::GDScript::8266436819808347245::1771613592::0::1::::<>CharacterBody2D<><>0<>0<><>::
-player.tscn::PackedScene::6232671363194603139::1771613675::0::1::::<><><>0<>0<><>::uid://dp1lahytw4djh::::res://entities/players/knight/player.gd<>uid://b5k7yl6k8okjb::::res://entities/players/knight/img/without_outline/DEATH.png<>uid://chxmuxi735v08::::res://entities/players/knight/img/without_outline/IDLE.png<>uid://bq2wrj8x118dh::::res://entities/players/knight/img/without_outline/JUMP.png<>uid://bgj6qvlfw8ygd::::res://entities/players/knight/img/without_outline/RUN.png<>uid://c0n007mrhfi3n::::res://counter/contador.tscn<>uid://cnit8x42rpysx::::res://entities/players/knight/morrir.mp3
+player.gd::GDScript::8266436819808347245::1771614762::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.tscn::PackedScene::6232671363194603139::1771615016::0::1::::<><><>0<>0<><>::uid://dp1lahytw4djh::::res://entities/players/knight/player.gd<>uid://b5k7yl6k8okjb::::res://entities/players/knight/img/without_outline/DEATH.png<>uid://chxmuxi735v08::::res://entities/players/knight/img/without_outline/IDLE.png<>uid://bq2wrj8x118dh::::res://entities/players/knight/img/without_outline/JUMP.png<>uid://bgj6qvlfw8ygd::::res://entities/players/knight/img/without_outline/RUN.png<>uid://c0n007mrhfi3n::::res://counter/contador.tscn<>uid://cnit8x42rpysx::::res://entities/players/knight/morrir.mp3
 ::res://entities/players/knight/img/::1771533314
 ::res://entities/players/knight/img/without_outline/::1771533426
 ATTACK 1.png::CompressedTexture2D::8913131646764018778::1771533314::1771533426::1::::<><><>0<>0<>7d49afeafc5e7727ac4eba35154290b2<>res://.godot/imported/ATTACK 1.png-fed65f664ef9f04c162707b4d8a460c6.ctex::
@@ -65,7 +65,7 @@ IDLE.png::CompressedTexture2D::5750116615490069870::1771533314::1771533425::1:::
 JUMP.png::CompressedTexture2D::6815093106903858584::1771533314::1771533425::1::::<><><>0<>0<>821d9596c63ff4088064c15bc68d031b<>res://.godot/imported/JUMP.png-3b860473fc82c2dfba1c1d1d3413bcdd.ctex::
 RUN.png::CompressedTexture2D::4465861700105845570::1771533314::1771533425::1::::<><><>0<>0<>f411e199a846cf680527f2a0bac4b569<>res://.godot/imported/RUN.png-b47cf44991e89c540adb6b38b997130a.ctex::
 WALK.png::CompressedTexture2D::2755059841249730671::1771533314::1771533425::1::::<><><>0<>0<>e7884cb7647c7b6b2832166ab04261bc<>res://.godot/imported/WALK.png-7433f26fd82a82ca638d307ae90e5747.ctex::
-::res://evironment/::1771533314
+::res://evironment/::1771615973
 ::res://evironment/level1/::1771613675
 evironment.tscn::PackedScene::3019452555336249967::1771613675::0::1::::<><><>0<>0<><>::uid://2o7kwaxyrwxl::::res://evironment/level1/floor.tscn<>uid://cu2fgl456fkyt::::res://entities/players/knight/player.tscn<>uid://6g06ad135bl5::::res://evironment/level1/background/fondo.tscn<>uid://c2vsc3wrjnkm0::::res://entities/collectable/coleccionable.tscn<>uid://dnmmthbm2ck6h::::res://evironment/level1/Juego.mp3<>uid://co7aardpo00l2::::res://entities/enemies/statics/cactus/cactus.tscn<>uid://63ldnrmfgqc1::::res://entities/enemies/dynamics/squeleton/ene_dyn_esqueleto.tscn
 floor.tscn::PackedScene::1925962025082771417::1771533314::0::1::::<><><>0<>0<><>::uid://n0gken643w1s::::res://evironment/level1/img/1 Tiles/Tileset.png
@@ -176,11 +176,12 @@ Overlay.png::CompressedTexture2D::6032510015835193705::1771533314::1771533425::1
 3.png::CompressedTexture2D::7654504834410654814::1771533314::1771533425::1::::<><><>0<>0<>1f7426075e6dd92111c8f77cf4039afb<>res://.godot/imported/3.png-014aa8cec8978cdf1c5460bb2cc842ce.ctex::
 4.png::CompressedTexture2D::7472185562297408006::1771533314::1771533425::1::::<><><>0<>0<>9f7634f23ceca59231d154413f2ac0a0<>res://.godot/imported/4.png-876f47504cf41b6ac540bd8237a8ca64.ctex::
 5.png::CompressedTexture2D::5950801816313170132::1771533314::1771533425::1::::<><><>0<>0<>a46bd7e222a22ca40165122d1151663d<>res://.godot/imported/5.png-033af1dd332b9d11b0931da3777cf149.ctex::
+::res://evironment/level2/::1771615973
 ::res://menu/::1771533314
-::res://menu/gameover/::1771613592
-game_over.gd::GDScript::3926525378702036454::1771613592::0::1::::<>Node2D<><>0<>0<><>::
+::res://menu/gameover/::1771614762
+game_over.gd::GDScript::3926525378702036454::1771614762::0::1::::<>Node2D<><>0<>0<><>::
 game_over.png::CompressedTexture2D::3319481624333800467::1771533314::1771533425::1::::<><><>0<>0<>1bab77fa7c102f54749bc975c3223df6<>res://.godot/imported/game_over.png-0889c29bf91ea6ea43e5add087026d51.ctex::
-game_over.tscn::PackedScene::5442568723851412775::1771613592::0::1::::<><><>0<>0<><>::uid://bnj8m3ifycsmd::::res://menu/gameover/game_over.png<>uid://bv7bkgai8vp4y::::res://menu/gameover/game_over.gd<>uid://bj2gw2h7lj6a0::::res://menu/history/fuente.TTF
+game_over.tscn::PackedScene::5442568723851412775::1771614762::0::1::::<><><>0<>0<><>::uid://bnj8m3ifycsmd::::res://menu/gameover/game_over.png<>uid://bv7bkgai8vp4y::::res://menu/gameover/game_over.gd<>uid://bj2gw2h7lj6a0::::res://menu/history/fuente.TTF
 ::res://menu/history/::1771613632
 fuente.TTF::FontFile::3074263495630620621::1771533314::1771533424::1::::<><><>0<>0<>57fd935d801db6a0d873c4b629d41ae6<>res://.godot/imported/fuente.TTF-0512154800ccb7b838535a808d9a29c0.fontdata::
 historia.gd::GDScript::63185728379285959::1771613632::0::1::::<>Node2D<><>0<>0<><>::
@@ -207,7 +208,7 @@ CaptusVidaCodigo.png::CompressedTexture2D::5022157700102424485::1771533314::1771
 ProblevaVIda.png::CompressedTexture2D::6569838522933680440::1771533314::1771533425::1::::<><><>0<>0<>715a40259beafedce090f35911972085<>res://.godot/imported/ProblevaVIda.png-af1f02e781a3fa2a1186e6fa9217e091.ctex::
 VidaMoneda.png::CompressedTexture2D::5063119141472221581::1771533314::1771533425::1::::<><><>0<>0<>7dffc3ad3acb6a09d55a21291ea9ff94<>res://.godot/imported/VidaMoneda.png-cbc9196de9c4cdc3d2198364ae250483.ctex::
 VidaResuelto.png::CompressedTexture2D::8275212653362777157::1771533314::1771533425::1::::<><><>0<>0<>f6ab576b695e5a6564367751b33f8899<>res://.godot/imported/VidaResuelto.png-77e484236a4770c4257fe58e066cad65.ctex::
-::res://resources/Multimedia/storyBoards/::1771613675
+::res://resources/Multimedia/storyBoards/::1771613787
 escena1.png::CompressedTexture2D::5955842020384040922::1771533314::1771533426::1::::<><><>0<>0<>c1ff2a268fa1c36572ab60b7f3afca1d<>res://.godot/imported/escena1.png-3d94105e14eb7297085b66c5ce26e498.ctex::
 escena2.png::CompressedTexture2D::8247946253295373519::1771533314::1771533426::1::::<><><>0<>0<>9929385c9f34b3dc6bf6b3317154c8c3<>res://.godot/imported/escena2.png-9315802f4327d76cdbd61e3abf471f78.ctex::
 escena3.png::CompressedTexture2D::6177434220136000389::1771533314::1771613787::0::::<><><>0<>0<>d7627ca006feb3416688c2531a525239<>::
