@@ -1,2 +1,11 @@
-res://menu/history/historia.tscn
+res://README.md
+res://entities/enemies/dynamics/predator/predator.tscn
+res://entities/enemies/dynamics/predator/predator.gd
+res://evironment/level1/evironment.tscn
+res://entities/players/knight/player.gd
+res://entities/collectable/coleccionable.tscn
+res://entities/enemies/dynamics/squeleton/ene_dyn_esqueleto.tscn
+res://entities/enemies/statics/cactus/cactus.tscn
+res://entities/players/knight/player.tscn
+res://menu/gameover/game_over.gd
 res://menu/history/historia.gd
