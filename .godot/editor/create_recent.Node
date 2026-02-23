@@ -1,13 +1,16 @@
+<<<<<<< HEAD
 RayCast2D
 AnimationPlayer
 CollisionShape2D
 Area2D
 Sprite2D
 CharacterBody2D
+=======
+AudioStreamPlayer2D
+>>>>>>> main
 Button
 Control
 Node2D
-AudioStreamPlayer2D
 Label
 RichTextLabel
 HBoxContainer

@@ -7,7 +7,7 @@ valid=false
 
 [deps]
 
-source_file="res://recursos/Multimedia/storyBoards/escena5.png"
+source_file="res://resources/Multimedia/storyBoards/escena5.png"
 
 [params]
 

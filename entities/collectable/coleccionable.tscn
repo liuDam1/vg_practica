@@ -13,7 +13,6 @@
 [ext_resource type="Texture2D" uid="uid://coghaxugbbhgt" path="res://entities/collectable/img/Bronze_10.png" id="11_h11g0"]
 [ext_resource type="AudioStream" uid="uid://bjmwvl3o8cf55" path="res://entities/collectable/efectoMoneda.mp3" id="12_ww8to"]
 
-
 [sub_resource type="SpriteFrames" id="SpriteFrames_rkgwq"]
 animations = [{
 "frames": [{
@@ -56,22 +55,18 @@ animations = [{
 }]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_knbpq"]
-radius = 19.235384
+radius = 20.0
 
 [node name="coleccionable" type="Area2D" unique_id=108535422]
-position = Vector2(192, 88)
 script = ExtResource("1_52hnh")
 metadata/_edit_group_ = true
 
 [node name="ani_moneda" type="AnimatedSprite2D" parent="." unique_id=1619367588]
-position = Vector2(334, 217)
-scale = Vector2(0.07155639, 0.06737591)
+scale = Vector2(0.072, 0.072)
 sprite_frames = SubResource("SpriteFrames_rkgwq")
 frame_progress = 0.3700352
-centered = false
 
 [node name="col_moneda" type="CollisionShape2D" parent="." unique_id=1974912299]
-position = Vector2(354, 236)
 shape = SubResource("CircleShape2D_knbpq")
 
 [node name="audio_moneda" type="AudioStreamPlayer2D" parent="." unique_id=371980722]
