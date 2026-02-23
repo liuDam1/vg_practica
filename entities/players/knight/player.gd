@@ -84,4 +84,4 @@ func perder_vida():
 		$tiempo.start(2.2)
 		$ani_player.play("muerte")
 		await $tiempo.timeout
-		get_tree().change_scene_to_file("res://game_over/game_over.tscn")
+		get_tree().change_scene_to_file("res://menu/gameover/game_over.tscn")

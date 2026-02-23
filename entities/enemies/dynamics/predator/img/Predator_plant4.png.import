@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dgcebtm6034v4"
-path="res://.godot/imported/Predator_plant.png-20963fb11d5e087a714c6c2d95e22c67.ctex"
+uid="uid://6dk10kgw7783"
+path="res://.godot/imported/Predator_plant4.png-38b00ef8a312c1eb881d0ca6009e42d9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://entities/enemies/dynamics/predator/img/Predator_plant.png"
-dest_files=["res://.godot/imported/Predator_plant.png-20963fb11d5e087a714c6c2d95e22c67.ctex"]
+source_file="res://entities/enemies/dynamics/predator/img/Predator_plant4.png"
+dest_files=["res://.godot/imported/Predator_plant4.png-38b00ef8a312c1eb881d0ca6009e42d9.ctex"]
 
 [params]
 

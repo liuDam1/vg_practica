@@ -1,0 +1,5 @@
+res://README.md
+res://entities/enemies/dynamics/predator/predator.tscn
+res://entities/enemies/dynamics/predator/predator.gd
+res://evironment/level1/evironment.tscn
+res://entities/players/knight/player.gd
