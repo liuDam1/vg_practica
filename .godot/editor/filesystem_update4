@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+res://README.md
+res://entities/enemies/dynamics/predator/predator.tscn
+res://entities/enemies/dynamics/predator/predator.gd
+res://evironment/level1/evironment.tscn
+res://entities/players/knight/player.gd
+=======
 res://menu/history/historia.tscn
 res://menu/history/historia.gd
+>>>>>>> main
