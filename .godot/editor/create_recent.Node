@@ -1,17 +1,14 @@
-<<<<<<< HEAD
-RayCast2D
-AnimationPlayer
-CollisionShape2D
-Area2D
-Sprite2D
-CharacterBody2D
-=======
 AudioStreamPlayer2D
->>>>>>> main
 Button
 Control
+CollisionShape2D
 Node2D
 Label
 RichTextLabel
+RayCast2D
 HBoxContainer
 Timer
+Area2D
+AnimatedSprite2D
+Sprite2D
+CharacterBody2D
