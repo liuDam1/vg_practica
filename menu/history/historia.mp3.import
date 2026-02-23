@@ -3,17 +3,17 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://cflnyskcbrc7x"
-path="res://.godot/imported/historia.mp3-d57d232d859b1abedcc0da416d969ef0.mp3str"
+path="res://.godot/imported/historia.mp3-8b1bd9281891d91dbbc61fabb786c279.mp3str"
 
 [deps]
 
-source_file="res://historia/historia.mp3"
-dest_files=["res://.godot/imported/historia.mp3-d57d232d859b1abedcc0da416d969ef0.mp3str"]
+source_file="res://menu/history/historia.mp3"
+dest_files=["res://.godot/imported/historia.mp3-8b1bd9281891d91dbbc61fabb786c279.mp3str"]
 
 [params]
 
 loop=false
-loop_offset=0
-bpm=0
+loop_offset=0.0
+bpm=0.0
 beat_count=0
 bar_beats=4

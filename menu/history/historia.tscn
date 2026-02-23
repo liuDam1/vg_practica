@@ -3,7 +3,7 @@
 [ext_resource type="Script" uid="uid://5uwovoyhpn0" path="res://menu/history/historia.gd" id="1_mj1c2"]
 [ext_resource type="PackedScene" uid="uid://6g06ad135bl5" path="res://evironment/level1/background/fondo.tscn" id="1_vtptn"]
 [ext_resource type="FontFile" uid="uid://davg0vu8wpbfo" path="res://menu/main/fuente.TTF" id="3_b76ui"]
-
+[ext_resource type="AudioStream" uid="uid://cflnyskcbrc7x" path="res://menu/history/historia.mp3" id="4_1y3wy"]
 
 [sub_resource type="Theme" id="Theme_phgvt"]
 default_font = ExtResource("3_b76ui")
@@ -21,17 +21,18 @@ offset_right = 1066.0
 offset_bottom = 567.0
 theme = SubResource("Theme_phgvt")
 text = "《El Camino de los Esqueletos: El Regreso del Caballero》
-En un antiguo continente sumido durante mucho tiempo en la oscuridad mágica, había un lugar desolado que hacía temblar a cualquiera: la Llanura de los Esqueletos. Allí, un hedor putrefacto flotaba permanentemente en el aire, y una niebla siniestra se deslizaba entre los ruinosos castillos y las paredes derruidas. En el suelo se esparcían innumerables esqueletos pálidos, como si estuvieran contando la tristeza y la desesperación del pasado.
 
-Eric, un joven caballero pero lleno de firmeza, provenía del lejano Reino de la Luz. Había oído decir que la Llanura de los Esqueletos había sido antaño una tierra fértil, pero debido a la maldición de un maligno mago se había convertido en este infierno. Innumerables vidas inocentes habían desaparecido y el pueblo vivía en una situación difícil. Con justicia y sentido de la misión en el corazón, Eric se embarcó decididamente en este peligroso camino lleno de esqueletos, jurando romper la maldición y salvar esta tierra.
+Eric, un valiente caballero del Reino de la Luz, es arrebatado de su hogar por un misterioso portal que lo arrastra a un mundo completamente desconocido: una ciudad moderna, pero sumida en la ruina absoluta. Rascacielos se tambalean medio derrumbados, las calles están cubiertas de polvo y cenizas, y por doquier reposan los esqueletos de quienes un día fueron sus habitantes.
 
-Cuando Eric pisó la llanura, un hedor nauseabundo le golpeó en la cara. Agarró firmemente su espada larga y en su escudo brillaba el emblema del Reino de la Luz. No había caminado mucho cuando, de todas partes, surgieron un grupo de soldados esqueletos resucitados por la maldición. Sus ojazos vacíos brillaban con una luz verde fosforescente y emitían espeluznantes rugidos mientras blandían sus armas oxidadas hacia Eric. Él no mostró ningún miedo, su cuerpo era ágil y, al blandir su espada, destellos de luz helada se reflejaban. Cada ataque era preciso y rompía los huesos de los esqueletos. Durante la batalla, Eric utilizó hábilmente el terreno, a veces se escondía detrás de una pared derruida y, otras, aprovechaba la protección de una roca para lanzar ataques sorpresa. Después de una dura lucha, logró derrotar a todo este grupo de soldados esqueletos, pero él también estaba algo cansado y tenía varias heridas en el cuerpo.
+Todo esto es obra de un oscuro mago, que lanzó una terrible maldición que convirtió a la población en esqueletos y sumió el lugar en la eterna penumbra.
 
-Siguiendo adelante hacia el interior de la llanura, Eric se encontró con enemigos aún más poderosos: los magos esqueletos. Estos flotaban en el aire, rodeados de llamas mágicas negras y siniestras. Mientras murmuraban palabras incomprensibles, lanzaban relámpagos negros hacia Eric. Él saltaba y se esquivaba con agilidad, buscando al mismo tiempo la oportunidad de atacar. Descubrió que, aunque los ataques mágicos de los magos esqueletos eran poderosos, tenían breves momentos de vulnerabilidad cuando lanzaban sus hechizos. Así, Eric aprovechó el momento oportuno, dio un paso rápido hacia uno de los magos esqueletos y, en el instante en que el relámpago negro iba a golpearlo, cortó con su espada el bastón del mago. El mago esqueleto sin bastón perdió de inmediato su poder y se convirtió en un montón de huesos rotos. Eric siguió avanzando y, utilizando su inteligencia y su valentía, derrotó uno por uno a los demás magos esqueletos.
+Para poder regresar a su mundo, Eric debe romper esa maldición. En su camino, se enfrenta a soldados esqueleto con armas oxidadas y a magos esqueleto que lanzan hechizos de sombra. Con su espada afilada y su coraje inquebrantable, los derrota uno tras otro.
 
-A medida que avanzaba, Eric descubrió las huellas del maligno mago. En un oscuro castillo en lo profundo de la llanura, el maligno mago estaba a punto de lanzar un hechizo aún más poderoso para sumir todo el continente en la oscuridad eterna. Eric no dudó y entró corriendo al castillo para enfrentarse al maligno mago en una batalla final. El maligno mago lanzó una variedad de hechizos oscuros: enormes tentáculos negros salían del suelo tratando de atrapar a Eric; las llamas negras se abatían como una marea turbulenta hacia él. Eric, en medio de estas múltiples crisis, se mantuvo firme gracias a su férrea voluntad y a su hábil destreza con la espada, superando una y otra vez los peligros. Continuó acercándose al maligno mago y, finalmente, después de una intensa lucha, Eric atrapó la debilidad del maligno mago y le clavó su espada en el corazón. El maligno mago lanzó un grito lastimero y cayó muerto. En ese instante, la oscuridad mágica que cubría la Llanura de los Esqueletos desapareció de inmediato.
+En el corazón de la ciudad, dentro de un rascacielos en ruinas, aguarda el maligno mago. Después de una feroz batalla final, Eric clava su espada contra él y rompe la maldición de una vez por todas.
 
-La luz del sol volvió a brillar sobre esta tierra desolada. Las plantas marchitas comenzaron a revivir y los ríos que antaño fluían con aguas negras se volvieron gradualmente cristalinos. Eric miró esta tierra que se iba recuperando poco a poco y se sintió satisfecho. Caminó con paso cansado pero firme en el camino de regreso a su hogar. Cuando llegó al Reino de la Luz, el pueblo lo recibió con una multitud aplaudiendo y gritando su nombre. Eric, este valiente caballero, tras pasar por numerosas dificultades en el camino de los esqueletos, finalmente regresó con gloria y se convirtió en el héroe en el corazón del pueblo. Su historia se transmitió de generación en generación en todo este continente."
+La luz del sol vuelve a brillar sobre la ciudad, y un nuevo portal se abre ante sus ojos.
+
+Eric entra en él y regresa a su reino medieval, convertido en un auténtico héroe. La historia de cómo salvó un mundo moderno de la amenaza de los esqueletos se contará durante generaciones enteras."
 horizontal_alignment = 1
 
 [node name="btn_saltar" type="Button" parent="." unique_id=146633589]
@@ -40,3 +41,7 @@ offset_top = 19.0
 offset_right = 1149.0
 offset_bottom = 58.0
 text = "Saltar..."
+
+[node name="historia" type="AudioStreamPlayer2D" parent="." unique_id=1224061742]
+stream = ExtResource("4_1y3wy")
+autoplay = true
