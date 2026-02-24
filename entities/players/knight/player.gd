@@ -20,6 +20,13 @@ func _ready() -> void:
 	add_to_group("jugadores")
 	contador.actualizar(0)
 
+func reset_level():
+	get_tree().reload_current_scene()
+
+func _process(delta: float) -> void:
+		if Input.is_action_just_pressed("reinicio"):
+			reset_level()
+
 func _physics_process(delta: float) -> void:
 	var input_axis = Input.get_axis("mover_izquierda", "mover_derecha")
 	apply_gravity(delta)
@@ -83,7 +90,7 @@ func perder_vida():
 		set_process_input(false)
 		$tiempo/audio_morrir.play()
 		$tiempo.start(2.2)
-		$ani_player.play("muerte")
+		ani_player.play("muerte")
 		muerte = true
 		await $tiempo.timeout
 		get_tree().change_scene_to_file("res://menu/gameover/game_over.tscn")

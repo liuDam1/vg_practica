@@ -27,6 +27,7 @@ Para completar la ambientación, se han utilizado recursos adicionales de:
 
 - [itch.io](https://itch.io/)
 - [craftpix.net](https://craftpix.net/)
+- [freepik.es](https://www.freepik.es/)
 
 Recursos del archivo del aula virtual:
 

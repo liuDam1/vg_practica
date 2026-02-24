@@ -1,53 +1,50 @@
 [gd_scene format=3 uid="uid://c2vsc3wrjnkm0"]
 
 [ext_resource type="Script" uid="uid://ddak3vxwka2dw" path="res://entities/collectable/coleccionable.gd" id="1_52hnh"]
-[ext_resource type="Texture2D" uid="uid://dtost2y02nrfg" path="res://entities/collectable/img/Bronze_1.png" id="2_n34l0"]
-[ext_resource type="Texture2D" uid="uid://cik3b3deoqrjn" path="res://entities/collectable/img/Bronze_2.png" id="3_67iev"]
-[ext_resource type="Texture2D" uid="uid://bssea4k8kv2st" path="res://entities/collectable/img/Bronze_3.png" id="4_p2syo"]
-[ext_resource type="Texture2D" uid="uid://cvpw05ffnj5bt" path="res://entities/collectable/img/Bronze_4.png" id="5_jxijt"]
-[ext_resource type="Texture2D" uid="uid://c11ix0togau5x" path="res://entities/collectable/img/Bronze_5.png" id="6_53lat"]
-[ext_resource type="Texture2D" uid="uid://bsm47su1kx85u" path="res://entities/collectable/img/Bronze_6.png" id="7_0qidr"]
-[ext_resource type="Texture2D" uid="uid://c8ifq76h3us07" path="res://entities/collectable/img/Bronze_7.png" id="8_drida"]
-[ext_resource type="Texture2D" uid="uid://1418i5xt6u4f" path="res://entities/collectable/img/Bronze_8.png" id="9_v13wo"]
-[ext_resource type="Texture2D" uid="uid://dx6sd3bi3v17h" path="res://entities/collectable/img/Bronze_9.png" id="10_s6no2"]
-[ext_resource type="Texture2D" uid="uid://coghaxugbbhgt" path="res://entities/collectable/img/Bronze_10.png" id="11_h11g0"]
+[ext_resource type="Texture2D" uid="uid://cjdrou2fqi4sr" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0036_coin10.png" id="2_nn0ob"]
+[ext_resource type="Texture2D" uid="uid://b628w0qi3274r" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0037_coin9.png" id="3_i6lq3"]
+[ext_resource type="Texture2D" uid="uid://b40n5k38m3fw" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0038_coin8.png" id="4_6kpns"]
+[ext_resource type="Texture2D" uid="uid://bk8wxkn7gsojj" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0039_coin7.png" id="5_grmkd"]
+[ext_resource type="Texture2D" uid="uid://ds8mcxrhtvbsr" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0040_coin6.png" id="6_4a7k6"]
+[ext_resource type="Texture2D" uid="uid://caom2gmsesdji" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0041_coin5.png" id="7_uhbnp"]
+[ext_resource type="Texture2D" uid="uid://gxrwa84j4iqq" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0042_coin4.png" id="8_4kt6j"]
+[ext_resource type="Texture2D" uid="uid://dudf745jb2cem" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0043_coin3.png" id="9_5hl0d"]
+[ext_resource type="Texture2D" uid="uid://4qtn61xyt3dg" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0044_coin2.png" id="10_g03y1"]
+[ext_resource type="Texture2D" uid="uid://cpvvmvg43jfd7" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0045_coin.png" id="11_tp2w3"]
 [ext_resource type="AudioStream" uid="uid://bjmwvl3o8cf55" path="res://entities/collectable/efectoMoneda.mp3" id="12_ww8to"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_rkgwq"]
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("11_h11g0")
+"texture": ExtResource("2_nn0ob")
 }, {
 "duration": 1.0,
-"texture": ExtResource("10_s6no2")
+"texture": ExtResource("3_i6lq3")
 }, {
 "duration": 1.0,
-"texture": ExtResource("9_v13wo")
+"texture": ExtResource("4_6kpns")
 }, {
 "duration": 1.0,
-"texture": ExtResource("8_drida")
+"texture": ExtResource("5_grmkd")
 }, {
 "duration": 1.0,
-"texture": ExtResource("7_0qidr")
+"texture": ExtResource("6_4a7k6")
 }, {
 "duration": 1.0,
-"texture": ExtResource("6_53lat")
+"texture": ExtResource("7_uhbnp")
 }, {
 "duration": 1.0,
-"texture": ExtResource("5_jxijt")
+"texture": ExtResource("8_4kt6j")
 }, {
 "duration": 1.0,
-"texture": ExtResource("4_p2syo")
+"texture": ExtResource("9_5hl0d")
 }, {
 "duration": 1.0,
-"texture": ExtResource("3_67iev")
+"texture": ExtResource("10_g03y1")
 }, {
 "duration": 1.0,
-"texture": ExtResource("2_n34l0")
-}, {
-"duration": 1.0,
-"texture": ExtResource("11_h11g0")
+"texture": ExtResource("11_tp2w3")
 }],
 "loop": true,
 "name": &"default",
@@ -62,9 +59,9 @@ script = ExtResource("1_52hnh")
 metadata/_edit_group_ = true
 
 [node name="ani_moneda" type="AnimatedSprite2D" parent="." unique_id=1619367588]
-scale = Vector2(0.072, 0.072)
+scale = Vector2(1.4, 1.4)
 sprite_frames = SubResource("SpriteFrames_rkgwq")
-frame_progress = 0.3700352
+frame_progress = 0.5633043
 
 [node name="col_moneda" type="CollisionShape2D" parent="." unique_id=1974912299]
 shape = SubResource("CircleShape2D_knbpq")

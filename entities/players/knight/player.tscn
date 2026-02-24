@@ -276,7 +276,7 @@ scale = Vector2(-0.0640359, -3.88967)
 offset = Vector2(0, 1)
 zoom = Vector2(1.5, 1.5)
 limit_left = 0
-limit_bottom = 648
+limit_bottom = 972
 
 [node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=518180976]
 

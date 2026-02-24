@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 res://README.md
 res://entities/enemies/dynamics/predator/predator.tscn
 res://entities/enemies/dynamics/predator/predator.gd
@@ -9,3 +10,11 @@ res://entities/enemies/statics/cactus/cactus.tscn
 res://entities/players/knight/player.tscn
 res://menu/gameover/game_over.gd
 res://menu/history/historia.gd
+=======
+res://evironment/level1/evironment.tscn
+res://entities/structure/portal.gd
+res://entities/players/knight/player.tscn
+res://entities/players/knight/player.gd
+res://entities/collectable/coleccionable.tscn
+res://counter/contador.tscn
+>>>>>>> feature/mejoras
