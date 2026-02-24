@@ -1,2 +1,6 @@
-res://menu/history/historia.tscn
-res://menu/history/historia.gd
+res://evironment/level1/evironment.tscn
+res://entities/structure/portal.gd
+res://entities/players/knight/player.tscn
+res://entities/players/knight/player.gd
+res://entities/collectable/coleccionable.tscn
+res://counter/contador.tscn

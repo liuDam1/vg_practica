@@ -1,9 +1,8 @@
 [gd_scene format=3 uid="uid://c0n007mrhfi3n"]
 
 [ext_resource type="Script" uid="uid://7qdrdowauph7" path="res://counter/contador.gd" id="1_86in8"]
-[ext_resource type="Texture2D" uid="uid://coghaxugbbhgt" path="res://entities/collectable/img/Bronze_10.png" id="2_dynkb"]
+[ext_resource type="Texture2D" uid="uid://cpvvmvg43jfd7" path="res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/000_0045_coin.png" id="2_emx6p"]
 [ext_resource type="Texture2D" uid="uid://bvubvowx5lvfm" path="res://counter/img/Corazon.png" id="3_dlk3w"]
-
 
 [sub_resource type="LabelSettings" id="LabelSettings_ulmmt"]
 font_size = 30
@@ -33,8 +32,8 @@ label_settings = SubResource("LabelSettings_ulmmt")
 
 [node name="imagen" type="Sprite2D" parent="hbox_contador" unique_id=422317230]
 position = Vector2(-71, 25)
-scale = Vector2(0.134547, 0.128546)
-texture = ExtResource("2_dynkb")
+scale = Vector2(2, 2)
+texture = ExtResource("2_emx6p")
 
 [node name="hbox_contador_vida" type="HBoxContainer" parent="." unique_id=1670098160]
 layout_mode = 0

@@ -1,0 +1,61 @@
+[gd_scene format=3 uid="uid://c3vy8irguy0js"]
+
+[ext_resource type="Script" uid="uid://dlqcntodtrin" path="res://entities/structure/portal.gd" id="1_gt22d"]
+[ext_resource type="Texture2D" uid="uid://wbvaod0rbtwk" path="res://entities/structure/img/portal1_frame_1.png" id="2_garlx"]
+[ext_resource type="Texture2D" uid="uid://pyiup0vc5cbj" path="res://entities/structure/img/portal1_frame_2.png" id="3_a4xs3"]
+[ext_resource type="Texture2D" uid="uid://cx66yhg0g6ixh" path="res://entities/structure/img/portal1_frame_3.png" id="4_fcau8"]
+[ext_resource type="Texture2D" uid="uid://dh4llveejdpd0" path="res://entities/structure/img/portal1_frame_4.png" id="5_75y2w"]
+[ext_resource type="Texture2D" uid="uid://c2a5o6n85aylm" path="res://entities/structure/img/portal1_frame_5.png" id="6_2lap2"]
+[ext_resource type="Texture2D" uid="uid://leceh61t21vr" path="res://entities/structure/img/portal1_frame_6.png" id="7_succ2"]
+[ext_resource type="Texture2D" uid="uid://byvmmgo1ccio" path="res://entities/structure/img/portal1_frame_7.png" id="8_0jva5"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_7vjvu"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_garlx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_a4xs3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_fcau8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_75y2w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_2lap2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_succ2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_0jva5")
+}],
+"loop": true,
+"name": &"default",
+"speed": 15.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_hu2jn"]
+size = Vector2(66, 66)
+
+[node name="portal" type="Area2D" unique_id=1407380761]
+script = ExtResource("1_gt22d")
+metadata/_edit_group_ = true
+
+[node name="ani_portal" type="AnimatedSprite2D" parent="." unique_id=2118532803]
+sprite_frames = SubResource("SpriteFrames_7vjvu")
+frame = 2
+frame_progress = 0.91957116
+
+[node name="col_portal" type="CollisionShape2D" parent="." unique_id=855773277]
+shape = SubResource("RectangleShape2D_hu2jn")
+
+[node name="Timer" type="Timer" parent="." unique_id=581408684]
+one_shot = true
+autostart = true
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
+[connection signal="body_exited" from="." to="." method="_on_body_exited"]
