@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1772039824
+::res://::1772040176
 icon.svg::CompressedTexture2D::6642749474454934204::1740645376::1771532050::1::::<><><>0<>0<>d3fd08632f4fecfd0efd7a6f1a3693bf<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1771871372::0::1::::<><><>0<>0<><>::
 ::res://assets/::1772033201
@@ -6445,7 +6445,7 @@ Autor_note.txt::TextFile::-1::1772033201::0::1::::<><><>0<>0<><>::
 moon.png::CompressedTexture2D::402815162970635341::1772033201::1772039628::1::::<><><>0<>0<>3e918bf9bc164656751a15cf51c934dd<>res://.godot/imported/moon.png-bdcc33a445fd2dca052e7d420e497b6b.ctex::
 test_1.png::CompressedTexture2D::8162740514772299571::1772033201::1772039628::1::::<><><>0<>0<>59095d7f321bce47f4894d6edc6e558f<>res://.godot/imported/test_1.png-ef2911c4d259b2518c5cf33eb05b36ac.ctex::
 test_2.png::CompressedTexture2D::8097660143896732313::1772033201::1772039628::1::::<><><>0<>0<>05836f125534046b963f4503d44a6a9c<>res://.godot/imported/test_2.png-f8e5517b96f064086620daa6b9687e16.ctex::
-::res://assets/mazmorra/::1772039628
+::res://assets/mazmorra/::1772040047
 DungeonSetPieces.png::CompressedTexture2D::8206724845885412326::1771977188::1772040047::1::::<><><>0<>0<>58c2e5ca63ee326265fef38ab5c1d48b<>res://.godot/imported/DungeonSetPieces.png-7776f8ef94ef074cf3ef862c38c8f7e7.ctex::
 DungeonTileset.png::CompressedTexture2D::3386816637576742596::1771977188::1772040047::1::::<><><>0<>0<>ede8431c714a2afd03389ced7276e4c5<>res://.godot/imported/DungeonTileset.png-8ec923c86d5ea7b117c4b20c523c07b8.ctex::
 ::res://assets/mazmorra/Animations/::1771977188
@@ -6453,7 +6453,7 @@ DungeonTileset.png::CompressedTexture2D::3386816637576742596::1771977188::177204
 ::res://assets/mazmorra/Animations/__MACOSX/Animations/::1771977188
 ::res://assets/mazmorra/Animations/__MACOSX/Animations/Liquid Tiles/::1771977188
 ::res://assets/mazmorra/Animations/Animations/::1771977188
-::res://assets/mazmorra/Animations/Animations/Doors/::1772039628
+::res://assets/mazmorra/Animations/Animations/Doors/::1772040048
 BlankDoor.png::CompressedTexture2D::2056949607248223669::1771977188::1772040048::1::::<><><>0<>0<>1fe7fde9a80563b7a9ab8ce3c95e9bc4<>res://.godot/imported/BlankDoor.png-930e1db9cfb507eddeba9d9123f87256.ctex::
 BlueLeverDoor.png::CompressedTexture2D::8442357592892332415::1771977188::1772040048::1::::<><><>0<>0<>f846be67ed2ba700e5ae2c5a7cb30c7c<>res://.godot/imported/BlueLeverDoor.png-9eee6d91b6032146c9e95c7d525370db.ctex::
 DownArrowDoor.png::CompressedTexture2D::7378728004767756705::1771977188::1772040048::1::::<><><>0<>0<>72c0f5de8c22556ceae10cbf3e2570dc<>res://.godot/imported/DownArrowDoor.png-dbf1ec3d5ad28f429f69f1d88cc03c8c.ctex::
@@ -6462,11 +6462,11 @@ GreenPlayDoor.png::CompressedTexture2D::488007901333610139::1771977188::17720400
 PurpleMysteryDoor.png::CompressedTexture2D::8998205866126989541::1771977188::1772040048::1::::<><><>0<>0<>0e690952d51ccabfe435b9edae143c25<>res://.godot/imported/PurpleMysteryDoor.png-77c87ed9513438f548ad3a113473133e.ctex::
 RedKeyDoor.png::CompressedTexture2D::905512283350693023::1771977188::1772040048::1::::<><><>0<>0<>a7be7087a4db6e4b974bcef76ec12dc0<>res://.godot/imported/RedKeyDoor.png-08505c3b745d13856ea5893caa4e5f66.ctex::
 UpArrowDoor.png::CompressedTexture2D::6060665885399117334::1771977188::1772040048::1::::<><><>0<>0<>b9bef058badcf6d3375f6175b01346c0<>res://.godot/imported/UpArrowDoor.png-a0f503f4ce3574efbdd822389dbbc715.ctex::
-::res://assets/mazmorra/Animations/Animations/Flags/::1772039628
+::res://assets/mazmorra/Animations/Animations/Flags/::1772040048
 GreyFlag.png::CompressedTexture2D::3248582742193880826::1771977188::1772040048::1::::<><><>0<>0<>74cb56450b3de9dcf991fced7a5ee6e4<>res://.godot/imported/GreyFlag.png-008ca893b6c2611e17f397d4edb51e7e.ctex::
 PurpleFlag.png::CompressedTexture2D::9155306451135783800::1771977188::1772040048::1::::<><><>0<>0<>38ff554a6f3dc60855e6fe9e9c118e0e<>res://.godot/imported/PurpleFlag.png-e639a435cf6fbda6b6471ec4f750a2f7.ctex::
 RedFlag.png::CompressedTexture2D::415021382395969650::1771977188::1772040047::1::::<><><>0<>0<>1a8b009f0d290e499e1c84f43c15e0a7<>res://.godot/imported/RedFlag.png-ca6ff51da86e5f6c9737e8b868be9ccc.ctex::
-::res://assets/mazmorra/Animations/Animations/Liquid Tiles/::1772039628
+::res://assets/mazmorra/Animations/Animations/Liquid Tiles/::1772040048
 FallingAcid.png::CompressedTexture2D::1632667106371508478::1771977188::1772040047::1::::<><><>0<>0<>0bb232138dfa4f7d0b5f9ea9694ff669<>res://.godot/imported/FallingAcid.png-029038b8f05f85376985c653c679ee70.ctex::
 FallingLava.png::CompressedTexture2D::1600733714143875061::1771977188::1772040047::1::::<><><>0<>0<>d1026b5ded079d524b7c11ccbc4e611e<>res://.godot/imported/FallingLava.png-63c9ecbdb64117e824d4144cd0795023.ctex::
 FallingWater.png::CompressedTexture2D::1351039716327122493::1771977188::1772040047::1::::<><><>0<>0<>581c24c5e3acb17777825f88c678f02d<>res://.godot/imported/FallingWater.png-a074f62e4ee988538391cc3ff80ada45.ctex::
@@ -6474,7 +6474,7 @@ FlowingAcid.png::CompressedTexture2D::7038069411189563468::1771977188::177204004
 FlowingCartoonWater.png::CompressedTexture2D::8840512941427433297::1771977188::1772040047::1::::<><><>0<>0<>56ba8cbf90962ea5e2bd887957bacd9e<>res://.godot/imported/FlowingCartoonWater.png-0f0a01fe4b022b79b1f0c78df12db0f4.ctex::
 FlowingLava.png::CompressedTexture2D::7485544101546568149::1771977188::1772040047::1::::<><><>0<>0<>7457cc5d6ead45b14f9fac3d45df2997<>res://.godot/imported/FlowingLava.png-eff8837096b1986b5728901927c6f504.ctex::
 FlowingWater.png::CompressedTexture2D::2538879476675487305::1771977188::1772040048::1::::<><><>0<>0<>c3d1844d2fbd27e44c0909927ddff91a<>res://.godot/imported/FlowingWater.png-509f8da3fd037fa3b0574f5efd7fdb78.ctex::
-::res://assets/mazmorra/Animations/Animations/Misc/::1772039628
+::res://assets/mazmorra/Animations/Animations/Misc/::1772040048
 Candles.png::CompressedTexture2D::3200621098823374050::1771977188::1772040048::1::::<><><>0<>0<>365994599852829bf623890ae323563f<>res://.godot/imported/Candles.png-7341419436d98ec1112eb45296d23671.ctex::
 Chandeliers.png::CompressedTexture2D::5446945716584984683::1771977188::1772040048::1::::<><><>0<>0<>b7502ec52dd10424864244d18516f3d0<>res://.godot/imported/Chandeliers.png-35562112a672bd250b8bf4c7e9de47e2.ctex::
 Fountain.png::CompressedTexture2D::6267704299020837262::1771977188::1772040048::1::::<><><>0<>0<>ca728bc3641c7c7a749edc7427b10913<>res://.godot/imported/Fountain.png-3503f367baf8441d12ddd18c5fe89ffd.ctex::
@@ -6489,7 +6489,7 @@ License.txt::TextFile::-1::1771977188::0::1::::<><><>0<>0<><>::
 readme.txt::TextFile::-1::1771977189::0::1::::<><><>0<>0<><>::
 ::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/::1771977189
 ::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Background/::1771977188
-::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Background/Bright/::1772039629
+::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Background/Bright/::1772040048
 Background.png::CompressedTexture2D::1256479140533708264::1771977188::1772040048::1::::<><><>0<>0<>6510bc13abd120e501fd047c530a870b<>res://.godot/imported/Background.png-0580c165b345c2815dc3ca7b015abfc2.ctex::
 bg.png::CompressedTexture2D::3548117402804377972::1771977188::1772040048::1::::<><><>0<>0<>74e0677451f382d24addbc3403ad2cd9<>res://.godot/imported/bg.png-a33e6942809e77261bee7d661d2a2447.ctex::
 myst.png::CompressedTexture2D::4861087638687778700::1771977188::1772040048::1::::<><><>0<>0<>f2e4b95ffad4af6d575af210f3991f50<>res://.godot/imported/myst.png-218ccb0a6bf56935cf22f913545429ea.ctex::
@@ -6497,7 +6497,7 @@ rock1.png::CompressedTexture2D::3370259749639256433::1771977188::1772040048::1::
 rock2.png::CompressedTexture2D::4876770737115117054::1771977188::1772040048::1::::<><><>0<>0<>8dc46338a298d7532e0fcc4bec7f6598<>res://.godot/imported/rock2.png-54426430c99a27a9ec8de05aff00d2a4.ctex::
 rock3.png::CompressedTexture2D::3830024252902604014::1771977188::1772040048::1::::<><><>0<>0<>4733cff64faf6237b68b7c15c184d7e8<>res://.godot/imported/rock3.png-f1997a3522975ec5ac9d36f6af3eebc6.ctex::
 rock5.png::CompressedTexture2D::6243871166816121267::1771977188::1772040048::1::::<><><>0<>0<>20012ac2e07fb44927906bffa4e039ad<>res://.godot/imported/rock5.png-e1667e5b8cb8fb882131f3e4d000a0b0.ctex::
-::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Background/Pale/::1772039629
+::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Background/Pale/::1772040048
 Background.png::CompressedTexture2D::7033877305596123940::1771977188::1772040048::1::::<><><>0<>0<>02aa6b869f4da237309e09ad037d961b<>res://.godot/imported/Background.png-4ec876c5b4f32d0c6bbc886d18bdba83.ctex::
 bg.png::CompressedTexture2D::716323596840185800::1771977188::1772040047::1::::<><><>0<>0<>ed19214351adf5f77be2327f532c9b83<>res://.godot/imported/bg.png-304192ee75d43e9783ab54ed724fe9ab.ctex::
 myst.png::CompressedTexture2D::4038388239124541847::1771977188::1772040047::1::::<><><>0<>0<>5086069f09e324666dae674ab2627e6a<>res://.godot/imported/myst.png-03fe699f50de1dd2b5c15a21e5818975.ctex::
@@ -6505,7 +6505,7 @@ rock1.png::CompressedTexture2D::2436485049691172232::1771977188::1772040047::1::
 rock2.png::CompressedTexture2D::4008883076211700751::1771977188::1772040047::1::::<><><>0<>0<>a7f2026091101a2516e2b7b3a9bd3983<>res://.godot/imported/rock2.png-d54615708d52fecaaa8497d4e7e1f366.ctex::
 rock3.png::CompressedTexture2D::5743510119386461793::1771977188::1772040047::1::::<><><>0<>0<>fd58007172f0517a5c840847e0cf3554<>res://.godot/imported/rock3.png-cc1f0f8cbbe5a67ae8d1847d871f9032.ctex::
 rock5.png::CompressedTexture2D::6746107273223219283::1771977188::1772040047::1::::<><><>0<>0<>9d281808a15eed07c5ca73f6fcb63932<>res://.godot/imported/rock5.png-4abac63e93873bb05bae5c89b9c8646c.ctex::
-::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Details/::1772039629
+::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Details/::1772040049
 bridge1.png::CompressedTexture2D::1104563235243307039::1771977188::1772040047::1::::<><><>0<>0<>21744d2b0c1dd683d58c0cd2eff62167<>res://.godot/imported/bridge1.png-f6d29e4fd4116dadcd93af9b42de7fea.ctex::
 bridge2.png::CompressedTexture2D::1841688518712691044::1771977188::1772040047::1::::<><><>0<>0<>1fa6745ce45054204e4c6b2b60bddb93<>res://.godot/imported/bridge2.png-71fb47feb3faa44fd3fec516bad092a2.ctex::
 bridge3.png::CompressedTexture2D::3879987777757628542::1771977188::1772040047::1::::<><><>0<>0<>3d1fa548357128cb460cc2506f4e62d1<>res://.godot/imported/bridge3.png-584c5ea937a0f72de7e98d0f336316da.ctex::
@@ -6585,7 +6585,7 @@ trap3.png::CompressedTexture2D::7088576379605704865::1771977188::1772040048::1::
 trap4.png::CompressedTexture2D::360473747892016559::1771977188::1772040048::1::::<><><>0<>0<>a5154e91e4e5a4719dbd13b94be02769<>res://.godot/imported/trap4.png-2766e5d925214357644f356045cdd415.ctex::
 trap5.png::CompressedTexture2D::3648632709243193184::1771977189::1772040048::1::::<><><>0<>0<>8073ae015a2b58a195257079a9385c72<>res://.godot/imported/trap5.png-6b11ba75b7a6275c934ddf4e8829455c.ctex::
 trap6.png::CompressedTexture2D::2199848092149160077::1771977189::1772040048::1::::<><><>0<>0<>753abacf97d4529cea0c6c0e3998c5f1<>res://.godot/imported/trap6.png-0fa750ff305a15494778fb8ea60b9fa6.ctex::
-::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/::1772039629
+::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Items/::1772040048
 000_0000_crystal10.png::CompressedTexture2D::5432098680086332703::1771977189::1772040048::1::::<><><>0<>0<>cbcc84e17e235e7772ffc4348d84aa9a<>res://.godot/imported/000_0000_crystal10.png-6f5db48d81cb562a3aa1848f78fd787f.ctex::
 000_0001_crystal9.png::CompressedTexture2D::5544572272046940088::1771977189::1772040048::1::::<><><>0<>0<>8901d36ede048f41ee90112ebf7db5ed<>res://.godot/imported/000_0001_crystal9.png-fb82fb1abebf94d6b3fd89f94f8eedca.ctex::
 000_0002_crystal8.png::CompressedTexture2D::4330417880022101744::1771977189::1772040048::1::::<><><>0<>0<>a8ffdf47899ada5d3059c87cb6924b61<>res://.godot/imported/000_0002_crystal8.png-598f75e1b1fbdbb6159ca6f6f130e89d.ctex::
@@ -6652,7 +6652,7 @@ trap6.png::CompressedTexture2D::2199848092149160077::1771977189::1772040048::1::
 000_0063_heart3.png::CompressedTexture2D::4792957241745275368::1771977189::1772040043::1::::<><><>0<>0<>403c06c6d29a66a03df243ff0b61a778<>res://.godot/imported/000_0063_heart3.png-dcab5385114c036304f302174209f3eb.ctex::
 000_0064_heart2.png::CompressedTexture2D::8421750475352904432::1771977189::1772040043::1::::<><><>0<>0<>1e50f0ca1821321c0e24c36c2c6e3890<>res://.godot/imported/000_0064_heart2.png-0dcff6d99056b0b000a7edc11bb0aa68.ctex::
 000_0065_heart.png::CompressedTexture2D::8102238460224302803::1771977189::1772040043::1::::<><><>0<>0<>cb1a36dcaaa7c7b7c7edb6d3ad063a17<>res://.godot/imported/000_0065_heart.png-aad438894b839d28c2310742a5bf8a37.ctex::
-::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Tiles_lava/::1772039629
+::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Tiles_lava/::1772040044
 lava_tile1.png::CompressedTexture2D::7767001285099118563::1771977189::1772040043::1::::<><><>0<>0<>dd80ce5e8d29bb151a0d5e781b60e194<>res://.godot/imported/lava_tile1.png-b37ed089247f9fb1265ce8299a766ebc.ctex::
 lava_tile2.png::CompressedTexture2D::9165737402006040952::1771977189::1772040043::1::::<><><>0<>0<>f7ea6981756fde7701ad641731971c6d<>res://.godot/imported/lava_tile2.png-50a2abc8d33009e4fc631cc65cac9b85.ctex::
 lava_tile3.png::CompressedTexture2D::3925676148229085446::1771977189::1772040043::1::::<><><>0<>0<>c4f32eb7b567145cffd686526d6349b3<>res://.godot/imported/lava_tile3.png-30f2b67d7beaced88413aaa9b71b40da.ctex::
@@ -6667,7 +6667,7 @@ lava_tile11.png::CompressedTexture2D::1313550278545359785::1771977189::177204004
 lava_tile12.png::CompressedTexture2D::6904510009711164387::1771977189::1772040044::1::::<><><>0<>0<>ffc0ee5615e12cc0839e34ec7425b53d<>res://.godot/imported/lava_tile12.png-d228656f34f9b2aa528dd3551bb3388b.ctex::
 lava_tile13.png::CompressedTexture2D::5297006043944029382::1771977189::1772040044::1::::<><><>0<>0<>871e139cf3681b354bdd07417f086771<>res://.godot/imported/lava_tile13.png-1b1aa61c6bf1d066aa578eaa15f8cf7e.ctex::
 lava_tile14.png::CompressedTexture2D::7573604224571749665::1771977189::1772040044::1::::<><><>0<>0<>50792066836a5089e18975ef27c32070<>res://.godot/imported/lava_tile14.png-f323007dfe4646e10baadf31dd6c42dc.ctex::
-::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Tiles_rock/::1772039630
+::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PNG/Tiles_rock/::1772040047
 tile1.png::CompressedTexture2D::8371927978814426531::1771977189::1772040044::1::::<><><>0<>0<>07ac66febf57539cf1988d17ebbb88e3<>res://.godot/imported/tile1.png-22747e5d240ab41b6afad1890b4ea645.ctex::
 tile2.png::CompressedTexture2D::9204939065117186756::1771977189::1772040044::1::::<><><>0<>0<>0e23a236b78f7b8d5d9d72cfe63b379d<>res://.godot/imported/tile2.png-118e85bb117eacb7fda1d4c28e9329a5.ctex::
 tile3.png::CompressedTexture2D::5583312591974076170::1771977189::1772040044::1::::<><><>0<>0<>90c11089285dba650e998776ccc4beb1<>res://.godot/imported/tile3.png-1d53b81aaa1fdec79250b89538aa33a7.ctex::
@@ -6705,9 +6705,9 @@ tile34.png::CompressedTexture2D::1946657090758025912::1771977189::1772040047::1:
 tile35.png::CompressedTexture2D::1884959479857485530::1771977189::1772040047::1::::<><><>0<>0<>4fc4c27be2e92e4c6a105478d13ea763<>res://.godot/imported/tile35.png-25d7f8964e319753b2b98c35b58ee0bb.ctex::
 tile36.png::CompressedTexture2D::1200672645307518681::1771977189::1772040047::1::::<><><>0<>0<>71aee4765f576b86166c750034d46d37<>res://.godot/imported/tile36.png-26849f3d33695e00728506575656b8c5.ctex::
 ::res://assets/mazmorra/craftpix-785611-free-dungeon-platformer-pixel-art-tileset/PSD/::1771977189
-::res://assets/puertas/::1772039630
+::res://assets/puertas/::1772040047
 puertas-castillo-medieval-abren-activo-vectorial-animacion.png::CompressedTexture2D::2521586771575727192::1771977189::1772040047::1::::<><><>0<>0<>572d39f9221e05354ff97213339d2b21<>res://.godot/imported/puertas-castillo-medieval-abren-activo-vectorial-animacion.png-4c0edc57647c356ea96951c5dceee914.ctex::
-::res://assets/puertas/Pixel Art Animated Portal/::1772039630
+::res://assets/puertas/Pixel Art Animated Portal/::1772040047
 sprite-sheet.png::CompressedTexture2D::4789468427771189077::1771977189::1772040047::1::::<><><>0<>0<>46a3dcf24f4725e8cdcc1caca4e2b2a1<>res://.godot/imported/sprite-sheet.png-a020a423cef22732b5808ee604e32059.ctex::
 Thank you!.txt::TextFile::-1::1771977189::0::1::::<><><>0<>0<><>::
 ::res://assets/trampas/::1772033201
@@ -7078,7 +7078,7 @@ demon_death_22.png::CompressedTexture2D::2425453362687178907::1772035363::177203
 ::res://entities/enemies/dynamics/predator/::1771869194
 predator.gd::GDScript::4672089256468159399::1771869194::0::1::::<>CharacterBody2D<><>0<>0<><>::
 predator.tscn::PackedScene::4679273870226447612::1771869194::0::1::::<><><>0<>0<><>::uid://b7tgvllomlrrj::::res://entities/enemies/dynamics/predator/predator.gd<>uid://btpknt0wh4viq::::res://entities/enemies/dynamics/predator/img/Predator_plant1.png<>uid://cbm0g35m11e1x::::res://entities/enemies/dynamics/predator/img/Predator_plant2.png<>uid://canaujfpn6kjk::::res://entities/enemies/dynamics/predator/img/Predator_plant3.png<>uid://6dk10kgw7783::::res://entities/enemies/dynamics/predator/img/Predator_plant4.png<>uid://cap0cg0l22bd::::res://entities/enemies/dynamics/predator/img/Predator_plant5.png<>uid://cw3jjxr8m8erd::::res://entities/enemies/dynamics/predator/img/Predator_plant6.png<>uid://dr2q6glorfq41::::res://entities/enemies/dynamics/predator/img/Predator_plant7.png<>uid://chxbohw4s3swx::::res://entities/enemies/dynamics/predator/img/Predator_plant8.png<>uid://c2a1rdvko7ugp::::res://entities/enemies/dynamics/predator/img/Predator_plant9.png
-::res://entities/enemies/dynamics/predator/img/::1772039632
+::res://entities/enemies/dynamics/predator/img/::1772040046
 Predator_plant1.png::CompressedTexture2D::3751605801948902476::1771869194::1772040046::1::::<><><>0<>0<>3c857784fbc0ac56722b03d6c24b3f72<>res://.godot/imported/Predator_plant1.png-b68120ee5b83ed5084f8b3d587637a90.ctex::
 Predator_plant2.png::CompressedTexture2D::4869332901234476555::1771869194::1772040046::1::::<><><>0<>0<>83049a97425c03bd93e3924d7fabcf55<>res://.godot/imported/Predator_plant2.png-f94dcf7ebf3f31bfeb7ab6191b0e1d2b.ctex::
 Predator_plant3.png::CompressedTexture2D::4799714475201384524::1771869194::1772040046::1::::<><><>0<>0<>88dcb358d87beaffa6a2235b8e52dfe4<>res://.godot/imported/Predator_plant3.png-7243fba69ee56e928d7e28c828497971.ctex::
@@ -7131,7 +7131,7 @@ WALK.png::CompressedTexture2D::2755059841249730671::1771606713::1771634223::1:::
 ::res://entities/structure/::1772033201
 portal.gd::GDScript::234250442476535337::1771977189::0::1::::<>Area2D<><>0<>0<><>::
 portal.tscn::PackedScene::6782997507860408872::1772033201::0::1::::<><><>0<>0<><>::uid://dlqcntodtrin::::res://entities/structure/portal.gd<>uid://wbvaod0rbtwk::::res://entities/structure/img/portal1_frame_1.png<>uid://pyiup0vc5cbj::::res://entities/structure/img/portal1_frame_2.png<>uid://cx66yhg0g6ixh::::res://entities/structure/img/portal1_frame_3.png<>uid://dh4llveejdpd0::::res://entities/structure/img/portal1_frame_4.png<>uid://c2a5o6n85aylm::::res://entities/structure/img/portal1_frame_5.png<>uid://leceh61t21vr::::res://entities/structure/img/portal1_frame_6.png<>uid://byvmmgo1ccio::::res://entities/structure/img/portal1_frame_7.png
-::res://entities/structure/img/::1772039632
+::res://entities/structure/img/::1772040046
 portal1_frame_1.png::CompressedTexture2D::1547494735758848570::1771977189::1772040046::1::::<><><>0<>0<>ec416e570b41ead272e6ab1500eab052<>res://.godot/imported/portal1_frame_1.png-badd74c2377d27979f9aa3226c536519.ctex::
 portal1_frame_2.png::CompressedTexture2D::1102899999916510627::1771977189::1772040046::1::::<><><>0<>0<>8bd0fbec28a9ae3f66aee471980bbdeb<>res://.godot/imported/portal1_frame_2.png-2c8f6e6a8e91929d442c0627ad08069b.ctex::
 portal1_frame_3.png::CompressedTexture2D::6453105945343687469::1771977189::1772040045::1::::<><><>0<>0<>0050802a513491ab52d3ef482834ac35<>res://.godot/imported/portal1_frame_3.png-4a4a9d97b774a6bef0bc1cae4f8b8541.ctex::
@@ -7140,32 +7140,32 @@ portal1_frame_5.png::CompressedTexture2D::6669788306356538018::1771977189::17720
 portal1_frame_6.png::CompressedTexture2D::780463784955939147::1771977189::1772040045::1::::<><><>0<>0<>a47f32daa7bf043b966fd932cd82c660<>res://.godot/imported/portal1_frame_6.png-00f2484a23ae9456b2bdddb37f102983.ctex::
 portal1_frame_7.png::CompressedTexture2D::121031036330371606::1771977189::1772040045::1::::<><><>0<>0<>dbb9595222dd6bdad562f3fd0f9de28f<>res://.godot/imported/portal1_frame_7.png-1355bce09d3da4d08e79fb187aea0586.ctex::
 ::res://evironment/::1772038070
-::res://evironment/level1/::1772039632
-evironment.tscn::PackedScene::3019452555336249967::1772039632::0::1::::<><><>0<>0<><>::uid://cu2fgl456fkyt::::res://entities/players/knight/player.tscn<>uid://6g06ad135bl5::::res://evironment/level1/background/fondo.tscn<>uid://c2vsc3wrjnkm0::::res://entities/collectable/coleccionable.tscn<>uid://dnmmthbm2ck6h::::res://evironment/level1/Juego.mp3<>uid://63ldnrmfgqc1::::res://entities/enemies/dynamics/squeleton/ene_dyn_esqueleto.tscn<>uid://c3vy8irguy0js::::res://entities/structure/portal.tscn
+::res://evironment/level1/::1772040043
+evironment.tscn::PackedScene::3019452555336249967::1772040116::0::1::::<><><>0<>0<><>::uid://cu2fgl456fkyt::::res://entities/players/knight/player.tscn<>uid://6g06ad135bl5::::res://evironment/level1/background/fondo.tscn<>uid://c2vsc3wrjnkm0::::res://entities/collectable/coleccionable.tscn<>uid://dnmmthbm2ck6h::::res://evironment/level1/Juego.mp3<>uid://63ldnrmfgqc1::::res://entities/enemies/dynamics/squeleton/ene_dyn_esqueleto.tscn<>uid://c3vy8irguy0js::::res://entities/structure/portal.tscn
 floor.tscn::PackedScene::4849592637413741915::1772039632::0::1::::<><><>0<>0<><>::uid://clvcoutwgi38x::::res://evironment/level1/img/1 Tiles/Tiles.png
 floor_decoracion.tscn::PackedScene::2273953376132043401::1772039632::0::1::::<><><>0<>0<><>::uid://clvcoutwgi38x::::res://evironment/level1/img/1 Tiles/Tiles.png<>uid://lx732k8fwtbv::::res://evironment/level1/img/1 Tiles/Salt.png
 Juego.mp3::AudioStreamMP3::8097252455209484877::1772039632::1772040043::1::::<><><>0<>0<>81ac3421d59f47c128c113c593b48e41<>res://.godot/imported/Juego.mp3-e1f2903bf03660d65f7c50df523d70dc.mp3str::
 ::res://evironment/level1/background/::1772039632
 fondo.tscn::PackedScene::2189813709587908296::1772039632::0::1::::<><><>0<>0<><>::uid://codwbqkogr8je::::res://evironment/level1/background/img/1.png<>uid://7jtg3ptl1suh::::res://evironment/level1/background/img/2.png<>uid://c2b48shohu8et::::res://evironment/level1/background/img/3.png<>uid://cmpaw6cf47d24::::res://evironment/level1/background/img/5.png
-::res://evironment/level1/background/img/::1772039667
+::res://evironment/level1/background/img/::1772040046
 1.png::CompressedTexture2D::5763016727682068962::1772039632::1772040045::1::::<><><>0<>0<>ee08cd98decb39c4025dbb3910d028fd<>res://.godot/imported/1.png-b70aeb0d13582dabb8e95faa31c1d7b9.ctex::
 2.png::CompressedTexture2D::2265788228534452887::1772039632::1772040046::1::::<><><>0<>0<>a2497501c67439c91dd111c1f51a9a4f<>res://.godot/imported/2.png-18ce590d7a59a06746801eb7e82306d9.ctex::
 3.png::CompressedTexture2D::6671825204236433455::1772039632::1772040046::1::::<><><>0<>0<>9f98deaf300c2852a20f20fb65686ff6<>res://.godot/imported/3.png-17985e1dd6cec3bff3eff146bd0e4bed.ctex::
 4.png::CompressedTexture2D::2216695275666034456::1772039632::1772040046::1::::<><><>0<>0<>5837d91c360c4b03ee802dadaaa615f0<>res://.godot/imported/4.png-6296792ef4839279db3a1ab7daf8753b.ctex::
 5.png::CompressedTexture2D::5646114076400051375::1772039632::1772040046::1::::<><><>0<>0<>718a0174599875441bca25bf4c0a0eb7<>res://.godot/imported/5.png-55363c474d2bcc82f6cf9dac9afaa8f3.ctex::
 ::res://evironment/level1/img/::1772038020
-::res://evironment/level1/img/1 Tiles/::1772039667
+::res://evironment/level1/img/1 Tiles/::1772040046
 Salt.png::CompressedTexture2D::821552349445030435::1772039667::1772040046::1::::<><><>0<>0<>85e6cacb201c9801262edc3b2b281c62<>res://.godot/imported/Salt.png-883ff4a8cbc150c8713508d0f7d1d787.ctex::
 Tiles.png::CompressedTexture2D::5588418096166247177::1772039667::1772040046::1::::<><><>0<>0<>747e35d56363b8fabe6e3528f84173d9<>res://.godot/imported/Tiles.png-b5c8b603f7e299b011418165e9cdec0a.ctex::
-::res://evironment/level1/img/2 Background/::1772039667
+::res://evironment/level1/img/2 Background/::1772040046
 Overlay.png::CompressedTexture2D::6032510015835193705::1772039667::1772040046::1::::<><><>0<>0<>e00917e95a61f585b9218225c08f5b22<>res://.godot/imported/Overlay.png-c237812045e37a08cbec15ee32324fc9.ctex::
-::res://evironment/level1/img/2 Background/Day/::1772039667
+::res://evironment/level1/img/2 Background/Day/::1772040046
 1.png::CompressedTexture2D::8403873276290803642::1772039667::1772040046::1::::<><><>0<>0<>8ec57bb17afa46aee78d9596c3a64e0d<>res://.godot/imported/1.png-8a171d47aa8496259050bd89bcf6c01b.ctex::
 2.png::CompressedTexture2D::1494943450471792025::1772039667::1772040046::1::::<><><>0<>0<>9e5cedfc913e847faec077d0150d6878<>res://.godot/imported/2.png-b6c7fe51a6b38f8bbcbf0070b94fcd12.ctex::
 3.png::CompressedTexture2D::5265314526366535156::1772039667::1772040046::1::::<><><>0<>0<>456959b2e4c05e053e6e64a7bc97691b<>res://.godot/imported/3.png-4d03325302f5417ebcf5004e4e351f21.ctex::
 4.png::CompressedTexture2D::4820650651977195603::1772039667::1772040046::1::::<><><>0<>0<>a1f569e577d07ca37a09c17b17172c17<>res://.godot/imported/4.png-24c2fb3d85893f59a25c50155c80af45.ctex::
 5.png::CompressedTexture2D::1607365675928514771::1772039667::1772040046::1::::<><><>0<>0<>5da2e797651a9bb465a59473431adaa3<>res://.godot/imported/5.png-2defe555f1355edd0a3bfd0b75bead4c.ctex::
-::res://evironment/level1/img/2 Background/Night/::1772039667
+::res://evironment/level1/img/2 Background/Night/::1772040046
 1.png::CompressedTexture2D::8616501781300337773::1772039667::1772040046::1::::<><><>0<>0<>8673957163d3a0a56bb94a55f76179fe<>res://.godot/imported/1.png-65dc4e72b1309c1bd3247edc2a6a0a12.ctex::
 2.png::CompressedTexture2D::6893593034205106321::1772039667::1772040046::1::::<><><>0<>0<>2b4245f7861cea0f2b4c04dc35e1151f<>res://.godot/imported/2.png-a32bf04545dcd4fab22e27e3b106e99a.ctex::
 3.png::CompressedTexture2D::7654504834410654814::1772039667::1772040046::1::::<><><>0<>0<>1f7426075e6dd92111c8f77cf4039afb<>res://.godot/imported/3.png-014aa8cec8978cdf1c5460bb2cc842ce.ctex::
@@ -7189,7 +7189,7 @@ Tileset.png::CompressedTexture2D::9075034014503023338::1772033201::1772039632::1
 game_over.gd::GDScript::3926525378702036454::1771977189::0::1::::<>Node2D<><>0<>0<><>::
 game_over.png::CompressedTexture2D::3319481624333800467::1771606713::1771634221::1::::<><><>0<>0<>1bab77fa7c102f54749bc975c3223df6<>res://.godot/imported/game_over.png-0889c29bf91ea6ea43e5add087026d51.ctex::
 game_over.tscn::PackedScene::5442568723851412775::1771634174::0::1::::<><><>0<>0<><>::uid://bnj8m3ifycsmd::::res://menu/gameover/game_over.png<>uid://bv7bkgai8vp4y::::res://menu/gameover/game_over.gd<>uid://bj2gw2h7lj6a0::::res://menu/history/fuente.TTF
-::res://menu/history/::1772039632
+::res://menu/history/::1772040043
 fuente.TTF::FontFile::3074263495630620621::1771606713::1771634219::1::::<><><>0<>0<>57fd935d801db6a0d873c4b629d41ae6<>res://.godot/imported/fuente.TTF-0512154800ccb7b838535a808d9a29c0.fontdata::
 historia.gd::GDScript::63185728379285959::1771636857::0::1::::<>Node2D<><>0<>0<><>::
 historia.mp3::AudioStreamMP3::5147326881791928631::1771635708::1772040043::1::::<><><>0<>0<>9d4f9bdb5bf9dca3259d3b2c15b92450<>res://.godot/imported/historia.mp3-8b1bd9281891d91dbbc61fabb786c279.mp3str::
