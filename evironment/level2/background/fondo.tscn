@@ -1,0 +1,44 @@
+[gd_scene format=3 uid="uid://btcdsng06tsfw"]
+
+[ext_resource type="Texture2D" uid="uid://vgq17jxm04c1" path="res://evironment/level2/background/img/Skyx32.png" id="1_l884k"]
+[ext_resource type="Texture2D" uid="uid://cguo064q2u00c" path="res://evironment/level2/background/img/Clouds_x32.png" id="2_s8fuw"]
+[ext_resource type="Texture2D" uid="uid://dflw8e45il7pi" path="res://evironment/level2/background/img/Flora1x32.png" id="3_f0ujw"]
+[ext_resource type="Texture2D" uid="uid://pqosovregbb4" path="res://evironment/level2/background/img/Flora2x32.png" id="4_jtx8h"]
+
+[node name="fondo" type="ParallaxBackground" unique_id=2057657212]
+
+[node name="layer_fondo" type="ParallaxLayer" parent="." unique_id=810661299]
+motion_mirroring = Vector2(2880, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="layer_fondo" unique_id=375580203]
+position = Vector2(0, 2)
+scale = Vector2(3, 3)
+texture = ExtResource("1_l884k")
+centered = false
+
+[node name="layer_medio" type="ParallaxLayer" parent="." unique_id=2045272242]
+motion_scale = Vector2(0.3, 1)
+motion_mirroring = Vector2(2880, 0)
+
+[node name="sprt_medio" type="Sprite2D" parent="layer_medio" unique_id=1110565242]
+scale = Vector2(3, 3)
+texture = ExtResource("2_s8fuw")
+centered = false
+
+[node name="layer_medio2" type="ParallaxLayer" parent="." unique_id=120814614]
+motion_scale = Vector2(0.3, 1)
+motion_mirroring = Vector2(2880, 0)
+
+[node name="sprt_medio2" type="Sprite2D" parent="layer_medio2" unique_id=1494521077]
+scale = Vector2(3, 3)
+texture = ExtResource("3_f0ujw")
+centered = false
+
+[node name="layer_primerplano" type="ParallaxLayer" parent="." unique_id=790410375]
+motion_scale = Vector2(0.3, 1)
+motion_mirroring = Vector2(2880, 0)
+
+[node name="sprt_primer_plano" type="Sprite2D" parent="layer_primerplano" unique_id=1299962217]
+scale = Vector2(3, 3)
+texture = ExtResource("4_jtx8h")
+centered = false
