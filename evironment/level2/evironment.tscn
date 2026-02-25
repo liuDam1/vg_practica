@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://bgkea0cumbxfm"]
+
+[ext_resource type="PackedScene" uid="uid://cd7wowayeysty" path="res://evironment/level2/floor.tscn" id="1_p1jb8"]
+[ext_resource type="PackedScene" uid="uid://c3vy8irguy0js" path="res://entities/structure/portal.tscn" id="2_hxvog"]
+[ext_resource type="PackedScene" uid="uid://cu2fgl456fkyt" path="res://entities/players/knight/player.tscn" id="3_uof6x"]
+[ext_resource type="PackedScene" uid="uid://btcdsng06tsfw" path="res://evironment/level2/background/fondo.tscn" id="4_hxvog"]
+
+[node name="Evironment" type="Node2D" unique_id=1031812203]
+
+[node name="TileMapLayer" parent="." unique_id=202681847 instance=ExtResource("1_p1jb8")]
+position = Vector2(-3, 265)
+
+[node name="portal" parent="." unique_id=1407380761 instance=ExtResource("2_hxvog")]
+position = Vector2(1599, 591)
+
+[node name="player" parent="." unique_id=173787055 instance=ExtResource("3_uof6x")]
+position = Vector2(58, 487)
+
+[node name="fondo" parent="." unique_id=2057657212 instance=ExtResource("4_hxvog")]

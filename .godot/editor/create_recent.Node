@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+TileMapLayer
+Timer
+CollisionShape2D
+>>>>>>> main
 AnimatedSprite2D
 AnimationPlayer
 RayCast2D
@@ -12,3 +18,9 @@ Control
 Node2D
 Label
 RichTextLabel
+<<<<<<< HEAD
+=======
+RayCast2D
+HBoxContainer
+Sprite2D
+>>>>>>> main
