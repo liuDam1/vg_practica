@@ -6,14 +6,14 @@
 [ext_resource type="AudioStream" uid="uid://dnmmthbm2ck6h" path="res://evironment/level1/Juego.mp3" id="4_m5yay"]
 [ext_resource type="PackedScene" uid="uid://63ldnrmfgqc1" path="res://entities/enemies/dynamics/squeleton/ene_dyn_esqueleto.tscn" id="7_48epn"]
 [ext_resource type="PackedScene" uid="uid://c3vy8irguy0js" path="res://entities/structure/portal.tscn" id="8_0gg3k"]
-[ext_resource type="PackedScene" uid="uid://rafuij20cx03" path="res://entities/enemies/dynamics/demon_slime/demon_slime.tscn" id="9_dqfmx"]
 [ext_resource type="PackedScene" uid="uid://cbdgc2a675wfj" path="res://evironment/level1/floor.tscn" id="8_dqfmx"]
 [ext_resource type="PackedScene" uid="uid://7nrxd638c1q8" path="res://evironment/level1/floor_decoracion.tscn" id="9_dqfmx"]
+[ext_resource type="PackedScene" uid="uid://b7ww7sjvcu2dk" path="res://entities/enemies/dynamics/predator/predator.tscn" id="9_yiep0"]
 
 [node name="evironment" type="Node2D" unique_id=1645659699]
 
 [node name="player" parent="." unique_id=1697452382 instance=ExtResource("2_yxet2")]
-position = Vector2(2234, 712.99994)
+position = Vector2(199, 785)
 scale = Vector2(1.01365, 0.992968)
 
 [node name="fondo" parent="." unique_id=2009684086 instance=ExtResource("3_ubmgd")]
@@ -43,14 +43,18 @@ position = Vector2(1885, 679)
 [node name="portal" parent="." unique_id=1407380761 instance=ExtResource("8_0gg3k")]
 position = Vector2(2704, 849)
 
-[node name="Area2D" parent="." unique_id=1407380761 instance=ExtResource("8_0gg3k")]
+[node name="Area2D" parent="." unique_id=440475102 instance=ExtResource("8_0gg3k")]
 position = Vector2(3038, 876)
 
 [node name="demon_slime" parent="." unique_id=597813224 instance=ExtResource("9_dqfmx")]
 position = Vector2(2579, 727)
 scale = Vector2(2.5, 2.5)
+
 [node name="tml_floor" parent="." unique_id=1582236524 instance=ExtResource("8_dqfmx")]
 position = Vector2(0, 317)
 
 [node name="tml_decoracion" parent="." unique_id=303881318 instance=ExtResource("9_dqfmx")]
 position = Vector2(-7, 311)
+
+[node name="predator" parent="." unique_id=1880757666 instance=ExtResource("9_yiep0")]
+position = Vector2(2264, 886)

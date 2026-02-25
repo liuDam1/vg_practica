@@ -4,6 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://c3vy8irguy0js" path="res://entities/structure/portal.tscn" id="2_hxvog"]
 [ext_resource type="PackedScene" uid="uid://cu2fgl456fkyt" path="res://entities/players/knight/player.tscn" id="3_uof6x"]
 [ext_resource type="PackedScene" uid="uid://btcdsng06tsfw" path="res://evironment/level2/background/fondo.tscn" id="4_hxvog"]
+[ext_resource type="PackedScene" uid="uid://rafuij20cx03" path="res://entities/enemies/dynamics/demon_slime/demon_slime.tscn" id="5_uof6x"]
 
 [node name="Evironment" type="Node2D" unique_id=1031812203]
 
@@ -14,6 +15,10 @@ position = Vector2(-3, 265)
 position = Vector2(1599, 591)
 
 [node name="player" parent="." unique_id=173787055 instance=ExtResource("3_uof6x")]
-position = Vector2(58, 487)
+position = Vector2(45, 501)
 
 [node name="fondo" parent="." unique_id=2057657212 instance=ExtResource("4_hxvog")]
+
+[node name="demon_slime" parent="." unique_id=597813224 instance=ExtResource("5_uof6x")]
+position = Vector2(1208, 865)
+scale = Vector2(2, 2)
