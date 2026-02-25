@@ -1,0 +1,432 @@
+[gd_scene format=3 uid="uid://rafuij20cx03"]
+
+[ext_resource type="Script" uid="uid://w5dah38xiqbh" path="res://entities/enemies/dynamics/demon_slime/demon_slime.gd" id="1_bgup0"]
+[ext_resource type="Texture2D" uid="uid://cipt7wc1ov22q" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_1.png" id="1_ojrlh"]
+[ext_resource type="Texture2D" uid="uid://oj3sqntdhrjd" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_2.png" id="2_cafgt"]
+[ext_resource type="Texture2D" uid="uid://c8t2tr4yyyjec" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_3.png" id="3_7hfcd"]
+[ext_resource type="Texture2D" uid="uid://bf0y3lyoly0ny" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_4.png" id="4_u1xg5"]
+[ext_resource type="Texture2D" uid="uid://bvmc7o7pfkpjj" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_5.png" id="5_qb21p"]
+[ext_resource type="Texture2D" uid="uid://cnyks3i4yr8wp" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_6.png" id="6_2tepd"]
+[ext_resource type="Texture2D" uid="uid://c5r3errgq4hio" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_7.png" id="7_pl0tu"]
+[ext_resource type="Texture2D" uid="uid://djalnpuj2ocw2" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_8.png" id="8_6qdbc"]
+[ext_resource type="Texture2D" uid="uid://dq71to7trvqrw" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_9.png" id="9_ap4eo"]
+[ext_resource type="Texture2D" uid="uid://55lwu8p4v456" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_10.png" id="10_vg8mf"]
+[ext_resource type="Texture2D" uid="uid://vqkpfulxssbo" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_11.png" id="11_3e06u"]
+[ext_resource type="Texture2D" uid="uid://dqqg3thnny45q" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_12.png" id="12_ivrn0"]
+[ext_resource type="Texture2D" uid="uid://bkqitxnh2nmy1" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_13.png" id="13_40k87"]
+[ext_resource type="Texture2D" uid="uid://wb20klc6vc2g" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_14.png" id="14_iko30"]
+[ext_resource type="Texture2D" uid="uid://buja8gilwpwak" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_15.png" id="15_b4tsj"]
+[ext_resource type="Texture2D" uid="uid://ci3osqq0vo25t" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_16.png" id="16_v0rah"]
+[ext_resource type="Texture2D" uid="uid://crejrbh0jjq23" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_17.png" id="17_bgup0"]
+[ext_resource type="Texture2D" uid="uid://cvmr88qiowyv3" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_18.png" id="18_xfece"]
+[ext_resource type="Texture2D" uid="uid://btvrykgjt4oww" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_19.png" id="19_ttaql"]
+[ext_resource type="Texture2D" uid="uid://cc3g15xl020r6" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_20.png" id="20_55d1l"]
+[ext_resource type="Texture2D" uid="uid://bnhm1dj8sc6rk" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_21.png" id="21_j4as0"]
+[ext_resource type="Texture2D" uid="uid://bas54lcq561gp" path="res://entities/enemies/dynamics/demon_slime/img/05_demon_death/demon_death_22.png" id="22_yvi3r"]
+[ext_resource type="Texture2D" uid="uid://dyv12cioxajli" path="res://entities/enemies/dynamics/demon_slime/img/04_demon_take_hit/demon_take_hit_1.png" id="23_wg3vp"]
+[ext_resource type="Texture2D" uid="uid://b1iqj1ougbtwa" path="res://entities/enemies/dynamics/demon_slime/img/04_demon_take_hit/demon_take_hit_2.png" id="24_ui7oy"]
+[ext_resource type="Texture2D" uid="uid://c0tbt02fu1oqf" path="res://entities/enemies/dynamics/demon_slime/img/04_demon_take_hit/demon_take_hit_3.png" id="25_pt1b5"]
+[ext_resource type="Texture2D" uid="uid://1clupqf06sny" path="res://entities/enemies/dynamics/demon_slime/img/04_demon_take_hit/demon_take_hit_4.png" id="26_1e7vw"]
+[ext_resource type="Texture2D" uid="uid://bqs7gjyw388tc" path="res://entities/enemies/dynamics/demon_slime/img/04_demon_take_hit/demon_take_hit_5.png" id="27_r0htl"]
+[ext_resource type="Texture2D" uid="uid://csu2047egr07a" path="res://entities/enemies/dynamics/demon_slime/img/01_demon_idle/demon_idle_1.png" id="28_og5nd"]
+[ext_resource type="Texture2D" uid="uid://bdeysgfwctl1p" path="res://entities/enemies/dynamics/demon_slime/img/01_demon_idle/demon_idle_2.png" id="29_3siem"]
+[ext_resource type="Texture2D" uid="uid://ci5rijh3u0rlp" path="res://entities/enemies/dynamics/demon_slime/img/01_demon_idle/demon_idle_3.png" id="30_dxd2n"]
+[ext_resource type="Texture2D" uid="uid://c4p8r7ak1jxbi" path="res://entities/enemies/dynamics/demon_slime/img/01_demon_idle/demon_idle_4.png" id="31_j8h8a"]
+[ext_resource type="Texture2D" uid="uid://bt70wjdkej56" path="res://entities/enemies/dynamics/demon_slime/img/01_demon_idle/demon_idle_5.png" id="32_5e7ay"]
+[ext_resource type="Texture2D" uid="uid://b5hrx4xynwsiu" path="res://entities/enemies/dynamics/demon_slime/img/01_demon_idle/demon_idle_6.png" id="33_ufi87"]
+[ext_resource type="Texture2D" uid="uid://cqrea72flv0a6" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_1.png" id="34_jsp04"]
+[ext_resource type="Texture2D" uid="uid://c4q3fdq2yh7qm" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_2.png" id="35_qv738"]
+[ext_resource type="Texture2D" uid="uid://dkeallgvmuvjf" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_3.png" id="36_3pp57"]
+[ext_resource type="Texture2D" uid="uid://b070o4go0dbg7" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_4.png" id="37_cm6m1"]
+[ext_resource type="Texture2D" uid="uid://b2tplbt0hwie6" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_5.png" id="38_u7ip8"]
+[ext_resource type="Texture2D" uid="uid://mh0tnkisofnj" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_6.png" id="39_oi6pm"]
+[ext_resource type="Texture2D" uid="uid://vp1knvtufryq" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_7.png" id="40_tnkp4"]
+[ext_resource type="Texture2D" uid="uid://c5wxgydbgwshb" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_8.png" id="41_notr0"]
+[ext_resource type="Texture2D" uid="uid://t02t6k523jv6" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_9.png" id="42_a0cur"]
+[ext_resource type="Texture2D" uid="uid://db3h541m0mflo" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_10.png" id="43_8ogm1"]
+[ext_resource type="Texture2D" uid="uid://b7m7b8c6vor3b" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_11.png" id="44_go2wb"]
+[ext_resource type="Texture2D" uid="uid://fm7v6m1rjmtc" path="res://entities/enemies/dynamics/demon_slime/img/02_demon_walk/demon_walk_12.png" id="45_hvwbh"]
+[ext_resource type="Texture2D" uid="uid://btv5k5moc62ke" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_1.png" id="46_v0rah"]
+[ext_resource type="Texture2D" uid="uid://cjudf864wggxb" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_2.png" id="47_bgup0"]
+[ext_resource type="Texture2D" uid="uid://htp860lptsbm" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_3.png" id="48_xfece"]
+[ext_resource type="Texture2D" uid="uid://jw0utl73wul" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_4.png" id="49_ttaql"]
+[ext_resource type="Texture2D" uid="uid://iq5oerjfn70c" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_5.png" id="50_55d1l"]
+[ext_resource type="Texture2D" uid="uid://c8b7mx0ngix5f" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_6.png" id="51_j4as0"]
+[ext_resource type="Texture2D" uid="uid://ccdvftxhrnovt" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_7.png" id="52_yvi3r"]
+[ext_resource type="Texture2D" uid="uid://pcdrbyymdau6" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_8.png" id="53_wg3vp"]
+[ext_resource type="Texture2D" uid="uid://cwhlqi75lqmxi" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_9.png" id="54_ui7oy"]
+[ext_resource type="Texture2D" uid="uid://c3m1ii8h2st8m" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_10.png" id="55_pt1b5"]
+[ext_resource type="Texture2D" uid="uid://cn0v2xvl6fvrw" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_11.png" id="56_1e7vw"]
+[ext_resource type="Texture2D" uid="uid://dj5s82wfr125n" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_12.png" id="57_r0htl"]
+[ext_resource type="Texture2D" uid="uid://cegkxbowb166q" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_13.png" id="58_og5nd"]
+[ext_resource type="Texture2D" uid="uid://bhhxusyr0akic" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_14.png" id="59_3siem"]
+[ext_resource type="Texture2D" uid="uid://csqppi2rcyjaq" path="res://entities/enemies/dynamics/demon_slime/img/03_demon_cleave/demon_cleave_15.png" id="60_dxd2n"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_o6yvq"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_ojrlh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_cafgt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_7hfcd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_u1xg5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_qb21p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_2tepd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_pl0tu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_6qdbc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_ap4eo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_vg8mf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_3e06u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_ivrn0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_40k87")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_iko30")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_b4tsj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_v0rah")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_bgup0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_xfece")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_ttaql")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_55d1l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_j4as0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_yvi3r")
+}],
+"loop": false,
+"name": &"death",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("23_wg3vp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_ui7oy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_pt1b5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_1e7vw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_r0htl")
+}],
+"loop": false,
+"name": &"hit",
+"speed": 8.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("28_og5nd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_3siem")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_dxd2n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_j8h8a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_5e7ay")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_ufi87")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 6.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("34_jsp04")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_qv738")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_3pp57")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_cm6m1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_u7ip8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_oi6pm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_tnkp4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_notr0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_a0cur")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_8ogm1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_go2wb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_hvwbh")
+}],
+"loop": true,
+"name": &"walk",
+"speed": 6.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ofp81"]
+size = Vector2(73, 74)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_j8h8a"]
+size = Vector2(0, 0)
+
+[sub_resource type="Animation" id="Animation_5e7ay"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("area_attack_demon/sprite_demon:offset")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(-8, -79)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("area_attack_demon/sprite_demon:centered")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [true]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("area_attack_demon/sprite_demon:texture")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [ExtResource("46_v0rah")]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("area_attack_demon/col_demon:shape")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [SubResource("RectangleShape2D_j8h8a")]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("area_attack_demon/col_demon:position")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(-1, -16)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("area_attack_demon/col_demon:shape:size")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [null]
+}
+
+[sub_resource type="Animation" id="Animation_ufi87"]
+resource_name = "attack"
+length = 1.5
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("area_attack_demon/sprite_demon:offset")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79), Vector2(-8, -79)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("area_attack_demon/sprite_demon:centered")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("area_attack_demon/sprite_demon:texture")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [ExtResource("46_v0rah"), ExtResource("47_bgup0"), ExtResource("48_xfece"), ExtResource("49_ttaql"), ExtResource("50_55d1l"), ExtResource("51_j4as0"), ExtResource("52_yvi3r"), ExtResource("53_wg3vp"), ExtResource("54_ui7oy"), ExtResource("55_pt1b5"), ExtResource("56_1e7vw"), ExtResource("57_r0htl"), ExtResource("58_og5nd"), ExtResource("59_3siem"), ExtResource("60_dxd2n"), ExtResource("46_v0rah")]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("area_attack_demon/col_demon:shape")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a"), SubResource("RectangleShape2D_j8h8a")]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("area_attack_demon/col_demon:position")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector2(-1, -16), Vector2(-3, -11), Vector2(18.5, -25.5), Vector2(38, -39.5), Vector2(44.5, -55), Vector2(46.5, -68.5), Vector2(42.5, -79), Vector2(31.5, -97.5), Vector2(24.5, -99), Vector2(-99, -34.5), Vector2(-95, -16), Vector2(-89.5, -11.25), Vector2(-39, -11), Vector2(-17, -12.125), Vector2(0, -13.0625), Vector2(-1, -16)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("area_attack_demon/col_demon:shape:size")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector2(44, 20), Vector2(44, 22), Vector2(43, 25), Vector2(24, 21), Vector2(17, 12), Vector2(15, 5), Vector2(17, 18), Vector2(35, 33), Vector2(39, 24), Vector2(52, 69), Vector2(56, 31), Vector2(45, 21.5), Vector2(45, 21.5), Vector2(45, 23.75), Vector2(45, 25.875), Vector2(44, 20)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_jsp04"]
+_data = {
+&"RESET": SubResource("Animation_5e7ay"),
+&"attack": SubResource("Animation_ufi87")
+}
+
+[node name="demon_slime" type="CharacterBody2D" unique_id=597813224]
+script = ExtResource("1_bgup0")
+
+[node name="anisprite_demon" type="AnimatedSprite2D" parent="." unique_id=2116058642]
+sprite_frames = SubResource("SpriteFrames_o6yvq")
+animation = &"walk"
+offset = Vector2(-9, -79)
+
+[node name="col_demon" type="CollisionShape2D" parent="." unique_id=1559881333]
+position = Vector2(-10.5, -37)
+shape = SubResource("RectangleShape2D_ofp81")
+
+[node name="area_attack_demon" type="Area2D" parent="." unique_id=2045046136]
+
+[node name="sprite_demon" type="Sprite2D" parent="area_attack_demon" unique_id=1782145888]
+texture = ExtResource("46_v0rah")
+offset = Vector2(-8, -79)
+
+[node name="col_demon" type="CollisionShape2D" parent="area_attack_demon" unique_id=633159420]
+position = Vector2(-1, -16)
+shape = SubResource("RectangleShape2D_j8h8a")
+
+[node name="animation_attack_demon" type="AnimationPlayer" parent="." unique_id=436893253]
+libraries/ = SubResource("AnimationLibrary_jsp04")
+
+[node name="ray_attack_right_range_demon" type="RayCast2D" parent="." unique_id=864406762]
+position = Vector2(26, -6)
+target_position = Vector2(100, 0)
+
+[node name="ray_attack_left_range_demon" type="RayCast2D" parent="." unique_id=46006311]
+position = Vector2(-47, -6)
+target_position = Vector2(-200, 0)
+
+[node name="ray_attack_demon" type="RayCast2D" parent="." unique_id=950737461]
+position = Vector2(-47, -6)
+target_position = Vector2(-65, 0)
+
+[node name="ray_left_demon" type="RayCast2D" parent="." unique_id=1143913437]
+position = Vector2(-45, -28)
+target_position = Vector2(0, 45)
+
+[node name="ray_right_demon" type="RayCast2D" parent="." unique_id=414599727]
+position = Vector2(24, -28)
+target_position = Vector2(0, 45)
+
+[connection signal="body_entered" from="area_attack_demon" to="." method="_on_area_attack_demon_body_entered"]
+[connection signal="animation_finished" from="animation_attack_demon" to="." method="_on_animation_attack_demon_animation_finished"]

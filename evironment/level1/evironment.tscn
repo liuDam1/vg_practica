@@ -8,11 +8,12 @@
 [ext_resource type="PackedScene" uid="uid://co7aardpo00l2" path="res://entities/enemies/statics/cactus/cactus.tscn" id="6_8amh2"]
 [ext_resource type="PackedScene" uid="uid://63ldnrmfgqc1" path="res://entities/enemies/dynamics/squeleton/ene_dyn_esqueleto.tscn" id="7_48epn"]
 [ext_resource type="PackedScene" uid="uid://c3vy8irguy0js" path="res://entities/structure/portal.tscn" id="8_0gg3k"]
+[ext_resource type="PackedScene" uid="uid://rafuij20cx03" path="res://entities/enemies/dynamics/demon_slime/demon_slime.tscn" id="9_dqfmx"]
 
 [node name="evironment" type="Node2D" unique_id=1645659699]
 
 [node name="player" parent="." unique_id=1697452382 instance=ExtResource("2_yxet2")]
-position = Vector2(86, 888)
+position = Vector2(2234, 712.99994)
 scale = Vector2(1.01365, 0.992968)
 
 [node name="fondo" parent="." unique_id=2009684086 instance=ExtResource("3_ubmgd")]
@@ -52,3 +53,7 @@ position = Vector2(2, 315)
 
 [node name="Area2D" parent="." unique_id=1407380761 instance=ExtResource("8_0gg3k")]
 position = Vector2(3038, 876)
+
+[node name="demon_slime" parent="." unique_id=597813224 instance=ExtResource("9_dqfmx")]
+position = Vector2(2579, 727)
+scale = Vector2(2.5, 2.5)
