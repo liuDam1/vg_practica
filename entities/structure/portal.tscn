@@ -42,6 +42,7 @@ animations = [{
 size = Vector2(66, 66)
 
 [node name="portal" type="Area2D" unique_id=1407380761]
+z_index = 2
 script = ExtResource("1_gt22d")
 metadata/_edit_group_ = true
 

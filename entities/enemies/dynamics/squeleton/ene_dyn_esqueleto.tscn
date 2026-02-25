@@ -75,6 +75,7 @@ size = Vector2(26, 68)
 size = Vector2(44, 73)
 
 [node name="EneDynEsqueleto" type="CharacterBody2D" unique_id=518270882]
+z_index = 2
 script = ExtResource("1_smm7i")
 metadata/_edit_group_ = true
 

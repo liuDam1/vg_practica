@@ -38,4 +38,5 @@ text = "VOLVER
 "
 
 [connection signal="pressed" from="Niveles/btn_nivel1" to="Niveles/btn_nivel1" method="_on_btn_nivel1_pressed"]
+[connection signal="pressed" from="Niveles/btn_nivel2" to="Niveles/btn_nivel1" method="_on_btn_nivel2_pressed"]
 [connection signal="pressed" from="Niveles/btn_volver" to="Niveles/btn_nivel1" method="_on_btn_volver_pressed"]
