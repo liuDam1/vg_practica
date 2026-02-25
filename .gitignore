@@ -1,0 +1,19 @@
+# Editor y configuraciones locales
+.godot/editor/
+.godot/imported/
+.godot/shader_cache/
+.godot/mono/
+.godot/*.tmp
+
+# Archivos de cache de Godot
+*.import
+*.cache
+*.imported
+
+# Configuraciones específicas de escenas (folding, editstate, etc.)
+*.tscn-*
+*.cfg
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db

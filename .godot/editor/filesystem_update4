@@ -2,7 +2,4 @@ res://entities/enemies/dynamics/demon_slime/demon_slime.tscn
 res://entities/enemies/dynamics/demon_slime/demon_slime.gd
 res://evironment/level1/evironment.tscn
 res://entities/players/knight/player.gd
-<<<<<<< HEAD
-=======
 res://menu/levels/nivel.gd
->>>>>>> main
