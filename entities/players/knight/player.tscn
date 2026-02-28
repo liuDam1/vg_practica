@@ -386,7 +386,7 @@ animations = [{
 }]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ppgnu"]
-size = Vector2(27, 36.6071)
+size = Vector2(27, 44.593872)
 
 [node name="player" type="CharacterBody2D" unique_id=173787055]
 z_index = 2
@@ -396,21 +396,23 @@ jump_force = -700
 metadata/_edit_group_ = true
 
 [node name="ani_player" type="AnimatedSprite2D" parent="." unique_id=450753369]
-scale = Vector2(1.12029, 1.05798)
+scale = Vector2(1.5, 1.417)
 sprite_frames = SubResource("SpriteFrames_hibto")
-animation = &"daño"
-frame = 1
-frame_progress = 0.29856154
+animation = &"idle"
 
 [node name="col_player" type="CollisionShape2D" parent="." unique_id=1773158424]
+position = Vector2(0, 3.9933856)
 shape = SubResource("RectangleShape2D_ppgnu")
 
 [node name="cam_player" type="Camera2D" parent="." unique_id=40271033]
+auto_translate_mode = 1
 scale = Vector2(-0.0640359, -3.88967)
 offset = Vector2(0, 1)
 zoom = Vector2(1.5, 1.5)
 limit_left = 0
 limit_bottom = 972
+position_smoothing_enabled = true
+rotation_smoothing_enabled = true
 
 [node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=518180976]
 

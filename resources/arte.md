@@ -29,10 +29,6 @@ Para completar la ambientación, se han utilizado recursos adicionales de:
 - [craftpix.net](https://craftpix.net/)
 - [freepik.es](https://www.freepik.es/)
 
-Recursos del archivo del aula virtual:
-
-- Moneda (recurso que en el futuro podría utilizarse para implementar una tienda de objetos, herramientas o equipamiento).
-
 ## Generación de fondo mediante IA
 
 La imagen de fondo principal fue generada con inteligencia artificial.

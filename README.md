@@ -1,12 +1,12 @@
 # RA5 - Práctica Videojuego
 
-# Índice
+## Índice
 
 - Conceptualización
-  - [Ideas](/resources/ideas.md)
   - [Diseño](/resources/diseno.md)
 - [Arte](/resources/arte.md)
 - [Problemas](/resources/problemas.md)
+- [Lineas Futuras](/resources/lineasFuturas.md)
 
 ## Integrantes
 

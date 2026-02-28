@@ -2,14 +2,10 @@
 
 ## 《El Camino de los Esqueletos: El Regreso del Caballero》
 
-Eric, un valiente caballero del Reino de la Luz, es arrebatado de su hogar por un misterioso portal que lo arrastra a un mundo completamente desconocido: una ciudad moderna, pero sumida en la ruina absoluta. Rascacielos se tambalean medio derrumbados, las calles están cubiertas de polvo y cenizas, y por doquier reposan los esqueletos de quienes un día fueron sus habitantes.
+Eric, un valiente caballero medieval del Reino de la Luz, es arrojado a una dimensión extraña por un hechizo maligno. Sin saber cómo regresar, descubre que solo podrá romper el encanto si cruza puertos dimensionales que lo llevan por mundos distintos: ciudades modernas en ruinas, paisajes mágicos desolados y territorios dominados por la oscuridad.
 
-Todo esto es obra de un oscuro mago, que lanzó una terrible maldición que convirtió a la población en esqueletos y sumió el lugar en la eterna penumbra.
+En cada mundo, se enfrenta a enemigos feroces: soldados esqueletos con armas oxidadas, magos sombra y criaturas dimensionales. Con su espada afilada y coraje inquebrantable, derrota a todos los adversarios que se interponen en su camino, hasta localizar al jefe final.
 
-Para poder regresar a su mundo, Eric debe romper esa maldición. En su camino, se enfrenta a soldados esqueleto con armas oxidadas y a magos esqueleto que lanzan hechizos de sombra. Con su espada afilada y su coraje inquebrantable, los derrota uno tras otro.
+Después de una feroz batalla final, Eric vence al jefe y rompe el encanto. Un portal de regreso se abre ante él, y el caballero vuelve a su reino medieval, convertido en un héroe que conquistó los mundos dimensionales.
 
-En el corazón de la ciudad, dentro de un rascacielos en ruinas, aguarda el maligno mago. Después de una feroz batalla final, Eric clava su espada contra él y rompe la maldición de una vez por todas.
-
-La luz del sol vuelve a brillar sobre la ciudad, y un nuevo portal se abre ante sus ojos.
-
-Eric entra en él y regresa a su reino medieval, convertido en un auténtico héroe. La historia de cómo salvó un mundo moderno de la amenaza de los esqueletos se contará durante generaciones enteras.
+![Historia](/resources/Multimedia/storyBoards/PortadaHistoria.jpeg)
