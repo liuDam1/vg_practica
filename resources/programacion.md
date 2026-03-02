@@ -13,4 +13,6 @@
 
 - **Botón "R" para reiniciar:**  
   Se añadió la funcionalidad de reinicio rápido mediante la tecla **R**, lo que permite volver a empezar la partida de forma inmediata.
-  
+
+- **Estructura de fondo:**  
+  El fondo está realizado con diferentes capas distribuidas en el eje X para separarlas y estructurarlas mejor. Esto permite una organización visual más clara y facilita la creación de profundidad en el escenario.
