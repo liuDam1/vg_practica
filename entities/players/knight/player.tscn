@@ -398,7 +398,7 @@ metadata/_edit_group_ = true
 [node name="ani_player" type="AnimatedSprite2D" parent="." unique_id=450753369]
 scale = Vector2(1.5, 1.417)
 sprite_frames = SubResource("SpriteFrames_hibto")
-animation = &"idle"
+animation = &"muerte"
 
 [node name="col_player" type="CollisionShape2D" parent="." unique_id=1773158424]
 position = Vector2(0, 3.9933856)

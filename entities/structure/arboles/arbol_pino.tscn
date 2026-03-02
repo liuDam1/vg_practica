@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dd83fxjfvusqv"]
+
+[ext_resource type="Texture2D" uid="uid://cowido3sl8ftd" path="res://entities/structure/arboles/img/pine_free.png" id="1_pvdbc"]
+
+[node name="PineFree" type="Sprite2D" unique_id=1207979729]
+texture = ExtResource("1_pvdbc")

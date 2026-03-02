@@ -1,13 +1,13 @@
+AudioStreamPlayer2D
 Node2D
 CollisionShape2D
+AnimatedSprite2D
 Area2D
 TileMapLayer
 Timer
-AnimatedSprite2D
 AnimationPlayer
 RayCast2D
 Sprite2D
 CharacterBody2D
 Timer
-AudioStreamPlayer2D
 Button
