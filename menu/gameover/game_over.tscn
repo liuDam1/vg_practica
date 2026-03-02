@@ -3,6 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://bnj8m3ifycsmd" path="res://menu/gameover/game_over.png" id="1_eaxdo"]
 [ext_resource type="Script" uid="uid://bv7bkgai8vp4y" path="res://menu/gameover/game_over.gd" id="1_fq5u1"]
 [ext_resource type="FontFile" uid="uid://bj2gw2h7lj6a0" path="res://menu/history/fuente.TTF" id="3_ko24k"]
+[ext_resource type="AudioStream" uid="uid://ca8kc5jmr7ohb" path="res://menu/gameover/music-on-the-piano-when-the-game-is-completed.mp3" id="4_de6tl"]
 
 [sub_resource type="Theme" id="Theme_otqin"]
 default_font = ExtResource("3_ko24k")
@@ -23,5 +24,9 @@ offset_right = 193.84613
 offset_bottom = 439.49652
 theme = SubResource("Theme_otqin")
 text = "VOLVER"
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="." unique_id=54432604]
+stream = ExtResource("4_de6tl")
+autoplay = true
 
 [connection signal="pressed" from="game_over/btn_volver" to="." method="_on_btn_volver_pressed"]

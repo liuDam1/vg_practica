@@ -1,13 +1,13 @@
 [gd_scene format=3 uid="uid://c3vy8irguy0js"]
 
-[ext_resource type="Script" uid="uid://dlqcntodtrin" path="res://entities/structure/portal.gd" id="1_gt22d"]
-[ext_resource type="Texture2D" uid="uid://wbvaod0rbtwk" path="res://entities/structure/img/portal1_frame_1.png" id="2_garlx"]
-[ext_resource type="Texture2D" uid="uid://pyiup0vc5cbj" path="res://entities/structure/img/portal1_frame_2.png" id="3_a4xs3"]
-[ext_resource type="Texture2D" uid="uid://cx66yhg0g6ixh" path="res://entities/structure/img/portal1_frame_3.png" id="4_fcau8"]
-[ext_resource type="Texture2D" uid="uid://dh4llveejdpd0" path="res://entities/structure/img/portal1_frame_4.png" id="5_75y2w"]
-[ext_resource type="Texture2D" uid="uid://c2a5o6n85aylm" path="res://entities/structure/img/portal1_frame_5.png" id="6_2lap2"]
-[ext_resource type="Texture2D" uid="uid://leceh61t21vr" path="res://entities/structure/img/portal1_frame_6.png" id="7_succ2"]
-[ext_resource type="Texture2D" uid="uid://byvmmgo1ccio" path="res://entities/structure/img/portal1_frame_7.png" id="8_0jva5"]
+[ext_resource type="Script" uid="uid://dlqcntodtrin" path="res://entities/structure/portal/portal.gd" id="1_gt22d"]
+[ext_resource type="Texture2D" uid="uid://wbvaod0rbtwk" path="res://entities/structure/portal/img/portal1_frame_1.png" id="2_garlx"]
+[ext_resource type="Texture2D" uid="uid://pyiup0vc5cbj" path="res://entities/structure/portal/img/portal1_frame_2.png" id="3_a4xs3"]
+[ext_resource type="Texture2D" uid="uid://cx66yhg0g6ixh" path="res://entities/structure/portal/img/portal1_frame_3.png" id="4_fcau8"]
+[ext_resource type="Texture2D" uid="uid://dh4llveejdpd0" path="res://entities/structure/portal/img/portal1_frame_4.png" id="5_75y2w"]
+[ext_resource type="Texture2D" uid="uid://c2a5o6n85aylm" path="res://entities/structure/portal/img/portal1_frame_5.png" id="6_2lap2"]
+[ext_resource type="Texture2D" uid="uid://leceh61t21vr" path="res://entities/structure/portal/img/portal1_frame_6.png" id="7_succ2"]
+[ext_resource type="Texture2D" uid="uid://byvmmgo1ccio" path="res://entities/structure/portal/img/portal1_frame_7.png" id="8_0jva5"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_7vjvu"]
 animations = [{

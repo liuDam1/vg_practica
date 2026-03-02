@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bjxn64dq7x2ic"]
+
+[ext_resource type="Texture2D" uid="uid://csvwbjv1034ql" path="res://entities/structure/arboles/img/burned_free.png" id="1_tncyv"]
+
+[node name="BurnedFree" type="Sprite2D" unique_id=1194208718]
+texture = ExtResource("1_tncyv")
