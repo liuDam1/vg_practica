@@ -2,9 +2,9 @@
 
 [ext_resource type="Script" uid="uid://dp1lahytw4djh" path="res://entities/players/knight/player.gd" id="1_boad6"]
 [ext_resource type="Texture2D" uid="uid://b5k7yl6k8okjb" path="res://entities/players/knight/img/without_outline/DEATH.png" id="1_tpulq"]
-[ext_resource type="Texture2D" uid="uid://bvqcsku6jrfup" path="res://assets/caballero/Knight 2D Pixel Art/Knight 2D Pixel Art/Sprites/without_outline/ATTACK 1.png" id="2_dgkoa"]
+[ext_resource type="Texture2D" uid="uid://bvqcsku6jrfup" path="res://entities/players/knight/img/without_outline/ATTACK 1.png" id="2_dgkoa"]
 [ext_resource type="Texture2D" uid="uid://chxmuxi735v08" path="res://entities/players/knight/img/without_outline/IDLE.png" id="2_p3xp3"]
-[ext_resource type="Texture2D" uid="uid://c6unyevi6uj73" path="res://assets/caballero/Knight 2D Pixel Art/Knight 2D Pixel Art/Sprites/without_outline/DEFEND.png" id="3_bicq5"]
+[ext_resource type="Texture2D" uid="uid://c6unyevi6uj73" path="res://entities/players/knight/img/without_outline/DEFEND.png" id="3_bicq5"]
 [ext_resource type="Texture2D" uid="uid://bq2wrj8x118dh" path="res://entities/players/knight/img/without_outline/JUMP.png" id="3_plajy"]
 [ext_resource type="Texture2D" uid="uid://bgj6qvlfw8ygd" path="res://entities/players/knight/img/without_outline/RUN.png" id="4_1fo16"]
 [ext_resource type="Texture2D" uid="uid://ba5q3yjcyu88k" path="res://assets/caballero/Knight 2D Pixel Art/Knight 2D Pixel Art/Sprites/without_outline/HURT.png" id="4_hly4s"]
